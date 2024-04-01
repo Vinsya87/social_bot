@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% load static %}
+
+{% load cache %}
+
+<div class="content_main">
+  <div class="primary_block">
+    <div class="container">
+      <h1>Elemental Battles</h1>
+      <ul>
+          {% for elemental_battle in elemental_battles %}
+          <li>{{ elemental_battle.name }} - {{ elemental_battle.gathering_time }} - {{ elemental_battle.battle_format }} - {{ elemental_battle.get_status_display }}</li>
+          {% endfor %}
+      </ul>
+  
+    </div>
+  </div>
+</div>
+{% endblock %}
