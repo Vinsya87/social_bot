@@ -1,7 +1,6 @@
 from django.db import models
-from geopy.geocoders import Nominatim
-from main.models import Config
-from users.models import Coordinator, Profile
+from main.models import City, Config, Country
+from users.models import Coordinator, User
 
 
 class EventTypeAbs(models.Model):
@@ -78,8 +77,16 @@ class Event(models.Model):
         'Описание события',
         blank=True,
     )
-    country = models.CharField('Страна', max_length=100)
-    city = models.CharField('Город', max_length=100)
+    country = models.ForeignKey(
+        Country,
+        on_delete=models.CASCADE,
+        blank=True,
+        null=True)
+    city = models.ForeignKey(
+        City,
+        on_delete=models.CASCADE,
+        blank=True,
+        null=True)
     address = models.CharField('Точный адрес', max_length=255)
     start_date = models.DateField('Дата начала')
     start_time = models.TimeField('Время начала')
@@ -89,7 +96,7 @@ class Event(models.Model):
         null=True
         )
     organizer = models.ForeignKey(
-        Profile,
+        User,
         on_delete=models.SET_DEFAULT,
         default=get_system_organizer_default,
         related_name='organized_events',
@@ -115,7 +122,7 @@ class Event(models.Model):
         'Активное',
         default=False)
     helpers = models.ManyToManyField(
-        Profile,
+        User,
         blank=True,
         related_name='event_helpers',
         verbose_name='Помощники организатора'
@@ -127,6 +134,12 @@ class Event(models.Model):
 
     def __str__(self):
         return self.name
+
+    def get_status_display(self):
+        """
+        Возвращает человекочитаемое значение статуса
+        """
+        return dict(self._meta.get_field('status').choices)[self.status]
 
 
 class Role(models.Model):
@@ -151,7 +164,7 @@ class Participation(models.Model):
         verbose_name='Событие'
     )
     user = models.ForeignKey(
-        Profile,
+        User,
         on_delete=models.CASCADE,
         verbose_name='Пользователь'
     )
@@ -268,17 +281,3 @@ class Festival(models.Model):
     def __str__(self):
         return self.name
 
-
-class Location(models.Model):
-    address = models.CharField(max_length=255)
-    latitude = models.FloatField(blank=True, null=True)
-    longitude = models.FloatField(blank=True, null=True)
-
-    def save(self, *args, **kwargs):
-        if not self.latitude or not self.longitude:
-            geolocator = Nominatim(user_agent="my_geocoder")
-            location = geolocator.geocode(self.address)
-            if location:
-                self.latitude = location.latitude
-                self.longitude = location.longitude
-        super().save(*args, **kwargs)

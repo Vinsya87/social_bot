@@ -1,6 +1,6 @@
 from django.core.management.base import BaseCommand
 from faker import Faker
-from users.models import Profile
+from users.models import User
 
 
 class Command(BaseCommand):
@@ -13,8 +13,10 @@ class Command(BaseCommand):
             phone_number = fake.phone_number()
             first_name = fake.first_name()
             last_name = fake.last_name()
+            username = fake.username()
             additional_info = fake.text()
-            Profile.objects.create(
+            User.objects.create(
+                username=username,
                 email=email,
                 phone_number=phone_number,
                 first_name=first_name,

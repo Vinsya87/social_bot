@@ -105,3 +105,71 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
+
+LOGGING_DIR = os.path.abspath(os.path.join(BASE_DIR, 'logs'))  # Папка для хранения логов
+os.makedirs(LOGGING_DIR, exist_ok=True)
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'logger': {
+            'level': 'WARNING',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(LOGGING_DIR, 'logger.log'),
+            'formatter': 'verbose',
+        },
+        'django_file': {
+            'level': 'WARNING',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(LOGGING_DIR, 'django.log'),
+            'formatter': 'verbose',
+        },
+        'bot_file': {
+            'level': 'ERROR',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(LOGGING_DIR, 'bot.log'),
+            'formatter': 'verbose',
+        },
+        'battles_file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(LOGGING_DIR, 'battles.log'),
+            'formatter': 'verbose',
+        },
+        'registr_file': {
+            'level': 'ERROR',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(LOGGING_DIR, 'registr.log'),
+            'formatter': 'verbose',
+        },
+    },
+    'formatters': {
+        'verbose': {
+            'format': '{levelname} {asctime} {module} {message}',
+            'style': '{',
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['django_file'],
+            'level': 'WARNING',
+            'propagate': False,
+        },
+        'bot': {
+            'handlers': ['bot_file'],
+            'level': 'ERROR',
+            'propagate': False,
+        },
+        'battles': {
+            'handlers': ['battles_file'],
+            'level': 'DEBUG',
+            'propagate': False,
+        },
+        'registr': {
+            'handlers': ['registr_file'],
+            'level': 'ERROR',
+            'propagate': False,
+        }
+    },
+}

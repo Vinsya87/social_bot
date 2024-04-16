@@ -35,8 +35,11 @@ def start_django():
 async def start_bot():
     start_django()
     await load_data()
-    from social_bot.handlers import battles, user_registr
-    dp.include_routers(user_registr.router, battles.router, )
+    from social_bot.handlers import battle_list, battles, user_registr
+    dp.include_routers(
+        user_registr.router,
+        battles.router,
+        battle_list.router,)
     await dp.start_polling(bot)
 
 

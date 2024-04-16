@@ -1,0 +1,4398 @@
+{
+  "edges": [
+    {
+      "node": {
+        "id": "2988507",
+        "name": "Париж",
+        "latitude": 48.85341,
+        "longitude": 2.3488,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "75",
+        "division3Code": "751",
+        "division4Code": "75056",
+        "population": "2138551",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455259",
+            "name": "Paris"
+          },
+          {
+            "id": "2988506",
+            "name": "Paris"
+          },
+          {
+            "id": "2968815",
+            "name": "Paris"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjq3e8H_8YGQyuoXG0UROcN"
+    },
+    {
+      "node": {
+        "id": "2995469",
+        "name": "Марсель",
+        "latitude": 43.29695,
+        "longitude": 5.38107,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "870731",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInn3OkJ_8wAQCSuWKJsYXQ"
+    },
+    {
+      "node": {
+        "id": "2996944",
+        "name": "Лион",
+        "latitude": 45.74846,
+        "longitude": 4.84671,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "69",
+        "division3Code": "691",
+        "division4Code": "69123",
+        "population": "522969",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454573",
+            "name": "Lyon"
+          },
+          {
+            "id": "2996943",
+            "name": "Arrondissement de Lyon"
+          },
+          {
+            "id": "2987410",
+            "name": "Rhône"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInk0esE_8EFQiqrUMR4w58"
+    },
+    {
+      "node": {
+        "id": "2972315",
+        "name": "Тулуза",
+        "latitude": 43.60426,
+        "longitude": 1.44367,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "76",
+        "division2Code": "31",
+        "division3Code": "313",
+        "division4Code": "31555",
+        "population": "493465",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453974",
+            "name": "Toulouse"
+          },
+          {
+            "id": "2972314",
+            "name": "Arrondissement de Toulouse"
+          },
+          {
+            "id": "3013767",
+            "name": "Upper Garonne"
+          },
+          {
+            "id": "11071623",
+            "name": "Occitanie"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfg2-4F_8AOQyerXBEthdE"
+    },
+    {
+      "node": {
+        "id": "2990440",
+        "name": "Ницца",
+        "latitude": 43.70313,
+        "longitude": 7.26608,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "06",
+        "division3Code": "062",
+        "division4Code": "06088",
+        "population": "342669",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454924",
+            "name": "Nice"
+          },
+          {
+            "id": "2990439",
+            "name": "Arrondissement de Nice"
+          },
+          {
+            "id": "3038049",
+            "name": "Alpes-Maritimes"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni3OsA_8cDQiWrUC6QzxU"
+    },
+    {
+      "node": {
+        "id": "2990969",
+        "name": "Нант",
+        "latitude": 47.21725,
+        "longitude": -1.55336,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "52",
+        "division2Code": "44",
+        "division3Code": "442",
+        "division4Code": "44109",
+        "population": "318808",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6434483",
+            "name": "Нант"
+          },
+          {
+            "id": "2990968",
+            "name": "Arrondissement de Nantes"
+          },
+          {
+            "id": "2997861",
+            "name": "Loire-Atlantique"
+          },
+          {
+            "id": "2988289",
+            "name": "Земли Луары"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni0ekJ_8cGSCutUSpDxOI"
+    },
+    {
+      "node": {
+        "id": "12278193",
+        "name": "Marne La Vallée",
+        "latitude": 48.83584,
+        "longitude": 2.64241,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": null,
+        "division3Code": null,
+        "division4Code": null,
+        "population": "318325",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGvs4Ll0O4J9s4EQSuuW2mSyvlK"
+    },
+    {
+      "node": {
+        "id": "2973783",
+        "name": "Страсбург",
+        "latitude": 48.58392,
+        "longitude": 7.74553,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "67",
+        "division3Code": "678",
+        "division4Code": "67482",
+        "population": "274845",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6441375",
+            "name": "Страсбург"
+          },
+          {
+            "id": "2973781",
+            "name": "Arrondissement de Strasbourg"
+          },
+          {
+            "id": "3034720",
+            "name": "Bas-Rhin"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfh3-cD_8YARCupXKQ6u1g"
+    },
+    {
+      "node": {
+        "id": "3031582",
+        "name": "Бордо",
+        "latitude": 44.84044,
+        "longitude": -0.5805,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "33",
+        "division3Code": "332",
+        "division4Code": "33063",
+        "population": "260958",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455058",
+            "name": "Bordeaux"
+          },
+          {
+            "id": "3031580",
+            "name": "Arrondissement de Bordeaux"
+          },
+          {
+            "id": "3015948",
+            "name": "Gironde"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPj3ecC_8YBQCqoURglvL4"
+    },
+    {
+      "node": {
+        "id": "2992166",
+        "name": "Монпелье",
+        "latitude": 43.61093,
+        "longitude": 3.87635,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "76",
+        "division2Code": "34",
+        "division3Code": "343",
+        "division4Code": "34172",
+        "population": "248252",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454034",
+            "name": "Монпелье"
+          },
+          {
+            "id": "2992165",
+            "name": "Arrondissement of Montpellier"
+          },
+          {
+            "id": "3013500",
+            "name": "Hérault"
+          },
+          {
+            "id": "11071623",
+            "name": "Occitanie"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIng2ekG_8YDSCGoW7wo8no"
+    },
+    {
+      "node": {
+        "id": "2982652",
+        "name": "Руан",
+        "latitude": 49.44313,
+        "longitude": 1.09932,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "28",
+        "division2Code": "76",
+        "division3Code": "763",
+        "division4Code": "76540",
+        "population": "234475",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454707",
+            "name": "Rouen"
+          },
+          {
+            "id": "2982651",
+            "name": "Arrondissement de Rouen"
+          },
+          {
+            "id": "2975248",
+            "name": "Seine-Maritime"
+          },
+          {
+            "id": "11071621",
+            "name": "Normandy"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjg3uoC_8YERCeqXF5wGv4"
+    },
+    {
+      "node": {
+        "id": "2998324",
+        "name": "Лилль",
+        "latitude": 50.63297,
+        "longitude": 3.05858,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "59",
+        "division3Code": "595",
+        "division4Code": "59350",
+        "population": "234475",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454414",
+            "name": "Лилль"
+          },
+          {
+            "id": "2998323",
+            "name": "Arrondissement de Lille"
+          },
+          {
+            "id": "2990129",
+            "name": "North"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInq2-0E_8YERCeqXPK4sb0"
+    },
+    {
+      "node": {
+        "id": "2983990",
+        "name": "Ренн",
+        "latitude": 48.11198,
+        "longitude": -1.67429,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "53",
+        "division2Code": "35",
+        "division3Code": "353",
+        "division4Code": "35238",
+        "population": "220488",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6432801",
+            "name": "Rennes"
+          },
+          {
+            "id": "2983989",
+            "name": "Arrondissement de Rennes"
+          },
+          {
+            "id": "3012849",
+            "name": "Ille-et-Vilaine"
+          },
+          {
+            "id": "3030293",
+            "name": "Бретань"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjh0eYA_8YFQCelUe8aQHw"
+    },
+    {
+      "node": {
+        "id": "2984114",
+        "name": "Реймс",
+        "latitude": 49.26526,
+        "longitude": 4.02853,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "51",
+        "division3Code": "513",
+        "division4Code": "51454",
+        "population": "196565",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454251",
+            "name": "Реймс"
+          },
+          {
+            "id": "2984113",
+            "name": "Arrondissement de Reims"
+          },
+          {
+            "id": "2995603",
+            "name": "Marne"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjm2e4E_8UORiarXGq8VjY"
+    },
+    {
+      "node": {
+        "id": "3003796",
+        "name": "Гавр",
+        "latitude": 49.49346,
+        "longitude": 0.10785,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "28",
+        "division2Code": "76",
+        "division3Code": "762",
+        "division4Code": "76351",
+        "population": "185972",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6456451",
+            "name": "Гавр"
+          },
+          {
+            "id": "3013633",
+            "name": "Arrondissement du Havre"
+          },
+          {
+            "id": "2975248",
+            "name": "Seine-Maritime"
+          },
+          {
+            "id": "11071621",
+            "name": "Normandy"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYDh3-YG_8UPRSqqW8hpsDw"
+    },
+    {
+      "node": {
+        "id": "2980291",
+        "name": "Сент-Этьен",
+        "latitude": 45.43389,
+        "longitude": 4.39,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "42",
+        "division3Code": "423",
+        "division4Code": "42218",
+        "population": "176280",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6614010",
+            "name": "Saint-Étienne"
+          },
+          {
+            "id": "2980288",
+            "name": "Arrondissement de Saint-Étienne"
+          },
+          {
+            "id": "2997870",
+            "name": "Loire"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIji2uYB_8UARiGlWUN3aIg"
+    },
+    {
+      "node": {
+        "id": "2972328",
+        "name": "Тулон",
+        "latitude": 43.12442,
+        "longitude": 5.92836,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "83",
+        "division3Code": "832",
+        "division4Code": "83137",
+        "population": "168701",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6612862",
+            "name": "Toulon"
+          },
+          {
+            "id": "2972326",
+            "name": "Arrondissement de Toulon"
+          },
+          {
+            "id": "2970749",
+            "name": "Var"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfg2-0I_8UBSCStWLqm1iM"
+    },
+    {
+      "node": {
+        "id": "3037656",
+        "name": "Анже",
+        "latitude": 47.47156,
+        "longitude": -0.55202,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "52",
+        "division2Code": "49",
+        "division3Code": "491",
+        "division4Code": "49007",
+        "population": "168279",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452361",
+            "name": "Angers"
+          },
+          {
+            "id": "3037655",
+            "name": "Arrondissement d'Angers"
+          },
+          {
+            "id": "2996663",
+            "name": "Maine-et-Loire"
+          },
+          {
+            "id": "2988289",
+            "name": "Земли Луары"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPl3uoG_8UBSCGqUCzvR3s"
+    },
+    {
+      "node": {
+        "id": "3014728",
+        "name": "Гренобль",
+        "latitude": 45.17869,
+        "longitude": 5.71479,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "38",
+        "division3Code": "381",
+        "division4Code": "38185",
+        "population": "158552",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454071",
+            "name": "Grenoble"
+          },
+          {
+            "id": "3014727",
+            "name": "Arrondissement de Grenoble"
+          },
+          {
+            "id": "3012715",
+            "name": "Isère"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYHm3-0I_8UCSCaoWwPJuVc"
+    },
+    {
+      "node": {
+        "id": "3021372",
+        "name": "Дижон",
+        "latitude": 47.31667,
+        "longitude": 5.01667,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "27",
+        "division2Code": "21",
+        "division3Code": "212",
+        "division4Code": "21231",
+        "population": "158002",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453767",
+            "name": "Dijon"
+          },
+          {
+            "id": "3021371",
+            "name": "Arrondissement de Dijon"
+          },
+          {
+            "id": "3023423",
+            "name": "Cote d'Or"
+          },
+          {
+            "id": "11071619",
+            "name": "Bourgogne-Franche-Comté"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLj2-gC_8UCSCOtWxueWbg"
+    },
+    {
+      "node": {
+        "id": "2990363",
+        "name": "Ним",
+        "latitude": 43.83665,
+        "longitude": 4.35788,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "76",
+        "division2Code": "30",
+        "division3Code": "302",
+        "division4Code": "30189",
+        "population": "148236",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6431349",
+            "name": "Nîmes"
+          },
+          {
+            "id": "2990362",
+            "name": "Arrondissement de Nîmes"
+          },
+          {
+            "id": "3016670",
+            "name": "Gard"
+          },
+          {
+            "id": "11071623",
+            "name": "Occitanie"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni2-kD_8UDSCGuX8A_pNk"
+    },
+    {
+      "node": {
+        "id": "3024635",
+        "name": "Клермон-Ферран",
+        "latitude": 45.77969,
+        "longitude": 3.08682,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "63",
+        "division3Code": "632",
+        "division4Code": "63113",
+        "population": "147865",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6440000",
+            "name": "Clermont-Ferrand"
+          },
+          {
+            "id": "3024634",
+            "name": "Arrondissement de Clermont-Ferrand"
+          },
+          {
+            "id": "2984986",
+            "name": "Puy-de-Dôme"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLm3uwF_8UDRyurXG4jscM"
+    },
+    {
+      "node": {
+        "id": "3038354",
+        "name": "Экс-ан-Прованс",
+        "latitude": 43.5283,
+        "longitude": 5.44973,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "131",
+        "division4Code": "13001",
+        "population": "146821",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452134",
+            "name": "Aix-en-Provence"
+          },
+          {
+            "id": "3038353",
+            "name": "Arrondissement d'Aix-en-Provence"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPq2-oE_8UDRiuvWMmMue0"
+    },
+    {
+      "node": {
+        "id": "8533870",
+        "name": "Saint-Quentin-en-Yvelines",
+        "latitude": 48.77186,
+        "longitude": 2.01891,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "78",
+        "division3Code": "784",
+        "division4Code": "78423",
+        "population": "146598",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6444034",
+            "name": "Montigny-le-Bretonneux"
+          },
+          {
+            "id": "2969678",
+            "name": "Arrondissement de Versailles"
+          },
+          {
+            "id": "2967196",
+            "name": "Yvelines"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGmtIPh0OgA_8UDRiakUR7GQTA"
+    },
+    {
+      "node": {
+        "id": "3030300",
+        "name": "Брест",
+        "latitude": 48.39029,
+        "longitude": -4.48628,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "53",
+        "division2Code": "29",
+        "division3Code": "291",
+        "division4Code": "29019",
+        "population": "144899",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6448047",
+            "name": "Брест"
+          },
+          {
+            "id": "3030299",
+            "name": "Arrondissement de Brest"
+          },
+          {
+            "id": "3018471",
+            "name": "Finistère"
+          },
+          {
+            "id": "3030293",
+            "name": "Бретань"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPi2-8A_8UDRCukUGDpPQo"
+    },
+    {
+      "node": {
+        "id": "3003603",
+        "name": "Ле-Ман",
+        "latitude": 48.0021,
+        "longitude": 0.20251,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "52",
+        "division2Code": "72",
+        "division3Code": "723",
+        "division4Code": "72181",
+        "population": "144515",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6456407",
+            "name": "Le Mans"
+          },
+          {
+            "id": "2996175",
+            "name": "Arrondissement du Mans"
+          },
+          {
+            "id": "2975926",
+            "name": "Sarthe"
+          },
+          {
+            "id": "2988289",
+            "name": "Земли Луары"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYDh3u8D_8UDRCasXDjhM5g"
+    },
+    {
+      "node": {
+        "id": "3037854",
+        "name": "Амьен",
+        "latitude": 49.9,
+        "longitude": 2.3,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "80",
+        "division3Code": "802",
+        "division4Code": "80021",
+        "population": "143086",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455273",
+            "name": "Amiens"
+          },
+          {
+            "id": "3037853",
+            "name": "Arrondissement d'Amiens"
+          },
+          {
+            "id": "2974304",
+            "name": "Somme"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPl0OoE_8UDQyOlXyiZpt8"
+    },
+    {
+      "node": {
+        "id": "2972191",
+        "name": "Тур",
+        "latitude": 47.39484,
+        "longitude": 0.70398,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "24",
+        "division2Code": "37",
+        "division3Code": "372",
+        "division4Code": "37261",
+        "population": "141621",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454060",
+            "name": "Тур"
+          },
+          {
+            "id": "2972190",
+            "name": "Arrondissement de Tours"
+          },
+          {
+            "id": "3012804",
+            "name": "Indre-et-Loire"
+          },
+          {
+            "id": "3027939",
+            "name": "Centre-Val de Loire"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfg2eYB_8UDQSWvWMKSZiM"
+    },
+    {
+      "node": {
+        "id": "2998286",
+        "name": "Лимож",
+        "latitude": 45.83362,
+        "longitude": 1.24759,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "87",
+        "division3Code": "872",
+        "division4Code": "87085",
+        "population": "141176",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451740",
+            "name": "Limoges"
+          },
+          {
+            "id": "2998285",
+            "name": "Arrondissement de Limoges"
+          },
+          {
+            "id": "3013719",
+            "name": "Haute-Vienne"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInq2ucG_8UDQSKqXz6Xe1U"
+    },
+    {
+      "node": {
+        "id": "2968254",
+        "name": "Вийёрбан",
+        "latitude": 45.76601,
+        "longitude": 4.8795,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "69",
+        "division3Code": "691",
+        "division4Code": "69266",
+        "population": "131445",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6441813",
+            "name": "Villeurbanne"
+          },
+          {
+            "id": "2996943",
+            "name": "Arrondissement de Lyon"
+          },
+          {
+            "id": "2987410",
+            "name": "Rhône"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIbq2uoE_8UEQSepXLU57Jo"
+    },
+    {
+      "node": {
+        "id": "3033123",
+        "name": "Безансон",
+        "latitude": 47.24878,
+        "longitude": 6.01815,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "27",
+        "division2Code": "25",
+        "division3Code": "251",
+        "division4Code": "25056",
+        "population": "128426",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447838",
+            "name": "Besançon"
+          },
+          {
+            "id": "3033122",
+            "name": "Arrondissement de Besançon"
+          },
+          {
+            "id": "3020989",
+            "name": "Doubs"
+          },
+          {
+            "id": "11071619",
+            "name": "Bourgogne-Franche-Comté"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPh2e0D_8UFSCevX-eIhxE"
+    },
+    {
+      "node": {
+        "id": "2994160",
+        "name": "Мец",
+        "latitude": 49.11911,
+        "longitude": 6.17269,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "57",
+        "division3Code": "579",
+        "division4Code": "57463",
+        "population": "123914",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454365",
+            "name": "Мец"
+          },
+          {
+            "id": "2994149",
+            "name": "Arrondissement de Metz"
+          },
+          {
+            "id": "2991627",
+            "name": "Moselle"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInm2ekA_8UFQyqsXUH-pM0"
+    },
+    {
+      "node": {
+        "id": "2989317",
+        "name": "Орлеан",
+        "latitude": 47.90289,
+        "longitude": 1.90389,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "24",
+        "division2Code": "45",
+        "division3Code": "452",
+        "division4Code": "45234",
+        "population": "116269",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454159",
+            "name": "Orléans"
+          },
+          {
+            "id": "2989316",
+            "name": "Arrondissement d'Orléans"
+          },
+          {
+            "id": "2997857",
+            "name": "Loiret"
+          },
+          {
+            "id": "3027939",
+            "name": "Centre-Val de Loire"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjr2-4H_8UGRiGrUFe7U4o"
+    },
+    {
+      "node": {
+        "id": "2991214",
+        "name": "Мюлуз",
+        "latitude": 47.75205,
+        "longitude": 7.32866,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "68",
+        "division3Code": "684",
+        "division4Code": "68224",
+        "population": "111430",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6441541",
+            "name": "Мюлуз"
+          },
+          {
+            "id": "2991213",
+            "name": "Arrondissement de Mulhouse"
+          },
+          {
+            "id": "3013663",
+            "name": "Haut-Rhin"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInj2u4E_8UGQSeuWTA9yfw"
+    },
+    {
+      "node": {
+        "id": "2992090",
+        "name": "Монтрей",
+        "latitude": 48.86415,
+        "longitude": 2.44322,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "931",
+        "division4Code": "93048",
+        "population": "111240",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6613137",
+            "name": "Монтрёй"
+          },
+          {
+            "id": "6457371",
+            "name": "Arrondissement de Bobigny"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIng2OYA_8UGQSGpWUSE3R8"
+    },
+    {
+      "node": {
+        "id": "2987914",
+        "name": "Перпиньян",
+        "latitude": 42.69764,
+        "longitude": 2.89541,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "76",
+        "division2Code": "66",
+        "division3Code": "662",
+        "division4Code": "66136",
+        "population": "110706",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6440996",
+            "name": "Perpignan"
+          },
+          {
+            "id": "2987913",
+            "name": "Arrondissement de Perpignan"
+          },
+          {
+            "id": "2984885",
+            "name": "Pyrénées-Orientales"
+          },
+          {
+            "id": "11071623",
+            "name": "Occitanie"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjl0e4E_8UGQCStX2KXLzM"
+    },
+    {
+      "node": {
+        "id": "3029241",
+        "name": "Кан",
+        "latitude": 49.18585,
+        "longitude": -0.35912,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "28",
+        "division2Code": "14",
+        "division3Code": "142",
+        "division4Code": "14118",
+        "population": "110624",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6427109",
+            "name": "Кан"
+          },
+          {
+            "id": "3029240",
+            "name": "Arrondissement de Caen"
+          },
+          {
+            "id": "3029094",
+            "name": "Calvados"
+          },
+          {
+            "id": "11071621",
+            "name": "Normandy"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLr2usB_8UGQCWvXVk5oyQ"
+    },
+    {
+      "node": {
+        "id": "3031137",
+        "name": "Булонь-Бийанкур",
+        "latitude": 48.83545,
+        "longitude": 2.24128,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "923",
+        "division4Code": "92012",
+        "population": "108782",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451962",
+            "name": "Boulogne-Billancourt"
+          },
+          {
+            "id": "6457370",
+            "name": "Arrondissement de Boulogne-Billancourt"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPj2ewH_8UHSCSlW9RiCt8"
+    },
+    {
+      "node": {
+        "id": "2990999",
+        "name": "Нанси",
+        "latitude": 48.68439,
+        "longitude": 6.18496,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "54",
+        "division3Code": "543",
+        "division4Code": "54395",
+        "population": "105058",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454307",
+            "name": "Нанси"
+          },
+          {
+            "id": "2990998",
+            "name": "Arrondissement de Nancy"
+          },
+          {
+            "id": "2994111",
+            "name": "Meurthe et Moselle"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni0eYJ_8UHRSOoUc-dx1o"
+    },
+    {
+      "node": {
+        "id": "3037044",
+        "name": "Аржантей",
+        "latitude": 48.94788,
+        "longitude": 2.24744,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "95",
+        "division3Code": "951",
+        "division4Code": "95018",
+        "population": "101475",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452047",
+            "name": "Аржантёй"
+          },
+          {
+            "id": "6457376",
+            "name": "Arrondissement d'Argenteuil"
+          },
+          {
+            "id": "2971071",
+            "name": "Val d'Oise"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPl2OsE_8UHQSeqXIk2mZU"
+    },
+    {
+      "node": {
+        "id": "2982681",
+        "name": "Рубе",
+        "latitude": 50.69421,
+        "longitude": 3.17456,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "59",
+        "division3Code": "595",
+        "division4Code": "59512",
+        "population": "98828",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6438452",
+            "name": "Roubaix"
+          },
+          {
+            "id": "2998323",
+            "name": "Arrondissement de Lille"
+          },
+          {
+            "id": "2990129",
+            "name": "North"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjg3ucB_80PSCGldbMz2w"
+    },
+    {
+      "node": {
+        "id": "2972284",
+        "name": "Туркуэн",
+        "latitude": 50.72391,
+        "longitude": 3.16117,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "59",
+        "division3Code": "595",
+        "division4Code": "59599",
+        "population": "98656",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6438526",
+            "name": "Tourcoing"
+          },
+          {
+            "id": "2998323",
+            "name": "Arrondissement de Lille"
+          },
+          {
+            "id": "2990129",
+            "name": "North"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfg2ucE_80PRiarmUHQVQ"
+    },
+    {
+      "node": {
+        "id": "2980916",
+        "name": "Сен-Дени",
+        "latitude": 48.93564,
+        "longitude": 2.35387,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "933",
+        "division4Code": "93066",
+        "population": "96128",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455341",
+            "name": "Сен-Дени"
+          },
+          {
+            "id": "2980915",
+            "name": "Arrondissement de Saint-Denis"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIji0e4G_80BQSGltlB5LQ"
+    },
+    {
+      "node": {
+        "id": "3035681",
+        "name": "Авиньон",
+        "latitude": 43.94834,
+        "longitude": 4.80892,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "84",
+        "division3Code": "842",
+        "division4Code": "84007",
+        "population": "89769",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455379",
+            "name": "Авиньон"
+          },
+          {
+            "id": "3035679",
+            "name": "Arrondissement d'Avignon"
+          },
+          {
+            "id": "2970554",
+            "name": "Vaucluse"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPn3ucB_8wORyWkPEN4ZQ"
+    },
+    {
+      "node": {
+        "id": "7284894",
+        "name": "Marseille 13",
+        "latitude": 43.31856,
+        "longitude": 5.40836,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "89316",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYE_8wOQyKr-Y_4tw"
+    },
+    {
+      "node": {
+        "id": "3036572",
+        "name": "Аньер-сюр-Сен",
+        "latitude": 48.91667,
+        "longitude": 2.28333,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92004",
+        "population": "86742",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455398",
+            "name": "Asnières-sur-Seine"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPk3egC_8wBRyevAUvwxA"
+    },
+    {
+      "node": {
+        "id": "2990970",
+        "name": "Нантер",
+        "latitude": 48.89198,
+        "longitude": 2.20675,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92050",
+        "population": "86719",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451976",
+            "name": "Nanterre"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni0egA_8wBRyKklt8KGA"
+    },
+    {
+      "node": {
+        "id": "2986495",
+        "name": "Пуатье",
+        "latitude": 46.58261,
+        "longitude": 0.34348,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "86",
+        "division3Code": "863",
+        "division4Code": "86194",
+        "population": "85960",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6445329",
+            "name": "Poitiers"
+          },
+          {
+            "id": "2986494",
+            "name": "Arrondissement de Poitiers"
+          },
+          {
+            "id": "2969280",
+            "name": "Vienne"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjk3OYF_8wCSSWtZTqFug"
+    },
+    {
+      "node": {
+        "id": "2969679",
+        "name": "Версаль",
+        "latitude": 48.80359,
+        "longitude": 2.13424,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "78",
+        "division3Code": "784",
+        "division4Code": "78646",
+        "population": "85416",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6444096",
+            "name": "Версаль"
+          },
+          {
+            "id": "2969678",
+            "name": "Arrondissement de Versailles"
+          },
+          {
+            "id": "2967196",
+            "name": "Yvelines"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIbr3ugJ_8wCRCKrnLKNdw"
+    },
+    {
+      "node": {
+        "id": "3023141",
+        "name": "Курбевуа",
+        "latitude": 48.89672,
+        "longitude": 2.25666,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92026",
+        "population": "85158",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455399",
+            "name": "Courbevoie"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLh2esB_8wCQSalSgYuPg"
+    },
+    {
+      "node": {
+        "id": "3022530",
+        "name": "Кретей",
+        "latitude": 48.79266,
+        "longitude": 2.46569,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "94",
+        "division3Code": "941",
+        "division4Code": "94028",
+        "population": "84833",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452018",
+            "name": "Créteil"
+          },
+          {
+            "id": "6457373",
+            "name": "Arrondissement de Créteil"
+          },
+          {
+            "id": "2971090",
+            "name": "Val-de-Marne"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLg3ewA_8wDSCCuDs-Nog"
+    },
+    {
+      "node": {
+        "id": "2988358",
+        "name": "Пау",
+        "latitude": 43.31117,
+        "longitude": -0.35583,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "64",
+        "division3Code": "643",
+        "division4Code": "64445",
+        "population": "82697",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6440557",
+            "name": "По"
+          },
+          {
+            "id": "2988356",
+            "name": "Arrondissement de Pau"
+          },
+          {
+            "id": "2984887",
+            "name": "Pyrénées-Atlantiques"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjq2-oI_8wFRiqqJ40Dfg"
+    },
+    {
+      "node": {
+        "id": "3024266",
+        "name": "Коломб",
+        "latitude": 48.91882,
+        "longitude": 2.25404,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92025",
+        "population": "82300",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455339",
+            "name": "Colombes"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLm2ukG_8wFQyOtsCe8JQ"
+    },
+    {
+      "node": {
+        "id": "2967849",
+        "name": "Витри-сюр-Сен",
+        "latitude": 48.78716,
+        "longitude": 2.40332,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "94",
+        "division3Code": "943",
+        "division4Code": "94081",
+        "population": "81001",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452043",
+            "name": "Vitry-sur-Seine"
+          },
+          {
+            "id": "6457375",
+            "name": "Arrondissement de L'Haÿ-les-Roses"
+          },
+          {
+            "id": "2971090",
+            "name": "Val-de-Marne"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIbl0OsJ_8wGQCOscKhpbQ"
+    },
+    {
+      "node": {
+        "id": "3036145",
+        "name": "Оне-су-Буа",
+        "latitude": 48.93814,
+        "longitude": 2.49402,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "932",
+        "division4Code": "93005",
+        "population": "80615",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452606",
+            "name": "Aulnay-sous-Bois"
+          },
+          {
+            "id": "6457372",
+            "name": "Arrondissement du Raincy"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPk2esF_8wHRiKocMZb-w"
+    },
+    {
+      "node": {
+        "id": "7284889",
+        "name": "Marseille 08",
+        "latitude": 43.27083,
+        "longitude": 5.3821,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "78837",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OcJ_8MPSCCqwoJ4Sg"
+    },
+    {
+      "node": {
+        "id": "7284896",
+        "name": "Marseille 15",
+        "latitude": 43.37224,
+        "longitude": 5.35386,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "77770",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYG_8MARyStjCHfcQ"
+    },
+    {
+      "node": {
+        "id": "7284891",
+        "name": "Marseille 09",
+        "latitude": 43.25433,
+        "longitude": 5.4057,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "76868",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYB_8MBSCWliDMHbA"
+    },
+    {
+      "node": {
+        "id": "3006787",
+        "name": "Ла-Рошель",
+        "latitude": 46.16308,
+        "longitude": -1.15222,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "17",
+        "division3Code": "173",
+        "division4Code": "17300",
+        "population": "76810",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455645",
+            "name": "La Rochelle"
+          },
+          {
+            "id": "3006783",
+            "name": "Arrondissement de La Rochelle"
+          },
+          {
+            "id": "3026644",
+            "name": "Приморская Шаранта"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYDk3-cH_8MBSCKt_t7arQ"
+    },
+    {
+      "node": {
+        "id": "3027105",
+        "name": "Шампиньи-сюр-Марн",
+        "latitude": 48.81642,
+        "longitude": 2.49366,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "94",
+        "division3Code": "942",
+        "division4Code": "94017",
+        "population": "76726",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452013",
+            "name": "Champigny-sur-Marne"
+          },
+          {
+            "id": "6457374",
+            "name": "Arrondissement de Nogent-sur-Marne"
+          },
+          {
+            "id": "2971090",
+            "name": "Val-de-Marne"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLl2e8F_8MBRyGraHFezQ"
+    },
+    {
+      "node": {
+        "id": "2982235",
+        "name": "Рюэй-Мальмезон",
+        "latitude": 48.8765,
+        "longitude": 2.18967,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92063",
+        "population": "76616",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451979",
+            "name": "Rueil-Malmaison"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjg2uwF_8MBRiKrmSkmSg"
+    },
+    {
+      "node": {
+        "id": "3037456",
+        "name": "Антиб",
+        "latitude": 43.58127,
+        "longitude": 7.12487,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "06",
+        "division3Code": "061",
+        "division4Code": "06004",
+        "population": "76393",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452097",
+            "name": "Antibes"
+          },
+          {
+            "id": "3014855",
+            "name": "Arrondissement de Grasse"
+          },
+          {
+            "id": "3038049",
+            "name": "Alpes-Maritimes"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPl3OoG_8MBQyqu0Hq0ag"
+    },
+    {
+      "node": {
+        "id": "2978179",
+        "name": "Сен-Мор-де-Фоссе",
+        "latitude": 48.79395,
+        "longitude": 2.49323,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "94",
+        "division3Code": "942",
+        "division4Code": "94068",
+        "population": "75402",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452032",
+            "name": "Saint-Maur-des-Fossés"
+          },
+          {
+            "id": "6457374",
+            "name": "Arrondissement de Nogent-sur-Marne"
+          },
+          {
+            "id": "2971090",
+            "name": "Val-de-Marne"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfq2egJ_8MCRCOvwZyo8Q"
+    },
+    {
+      "node": {
+        "id": "3028808",
+        "name": "Канны",
+        "latitude": 43.55135,
+        "longitude": 7.01275,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "06",
+        "division3Code": "061",
+        "division4Code": "06029",
+        "population": "74545",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6446684",
+            "name": "Cannes"
+          },
+          {
+            "id": "3014855",
+            "name": "Arrondissement de Grasse"
+          },
+          {
+            "id": "3038049",
+            "name": "Alpes-Maritimes"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLq0O8I_8MDRSeoeNBjIg"
+    },
+    {
+      "node": {
+        "id": "3029162",
+        "name": "Кале",
+        "latitude": 50.95194,
+        "longitude": 1.85635,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "62",
+        "division3Code": "626",
+        "division4Code": "62193",
+        "population": "74433",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6618424",
+            "name": "Calais"
+          },
+          {
+            "id": "3029161",
+            "name": "Arrondissement de Calais"
+          },
+          {
+            "id": "2988430",
+            "name": "Pas-de-Calais"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLr2ekC_8MDRCCut81XlQ"
+    },
+    {
+      "node": {
+        "id": "3032833",
+        "name": "Безье",
+        "latitude": 43.34122,
+        "longitude": 3.21402,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "76",
+        "division2Code": "34",
+        "division3Code": "341",
+        "division4Code": "34032",
+        "population": "74081",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455063",
+            "name": "Béziers"
+          },
+          {
+            "id": "3032832",
+            "name": "Arrondissement de Béziers"
+          },
+          {
+            "id": "3013500",
+            "name": "Hérault"
+          },
+          {
+            "id": "11071623",
+            "name": "Occitanie"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPg0OwD_8MDQCussLppdQ"
+    },
+    {
+      "node": {
+        "id": "3020686",
+        "name": "Дюнкерк",
+        "latitude": 51.0344,
+        "longitude": 2.37681,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "59",
+        "division3Code": "594",
+        "division4Code": "59183",
+        "population": "71287",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6614519",
+            "name": "Dunkerque"
+          },
+          {
+            "id": "3020685",
+            "name": "Arrondissement de Dunkerque"
+          },
+          {
+            "id": "2990129",
+            "name": "North"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLi3ucG_8MGQiuq62qlHw"
+    },
+    {
+      "node": {
+        "id": "3036386",
+        "name": "Обервилье",
+        "latitude": 48.91667,
+        "longitude": 2.38333,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "933",
+        "division4Code": "93001",
+        "population": "70914",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452605",
+            "name": "Aubervilliers"
+          },
+          {
+            "id": "2980915",
+            "name": "Arrondissement de Saint-Denis"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPk2-cG_8MHSSKpoz7WeA"
+    },
+    {
+      "node": {
+        "id": "2994393",
+        "name": "Mérignac",
+        "latitude": 44.84247,
+        "longitude": -0.64512,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "33",
+        "division3Code": "332",
+        "division4Code": "33281",
+        "population": "69791",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6432306",
+            "name": "Мериньяк"
+          },
+          {
+            "id": "3031580",
+            "name": "Arrondissement de Bordeaux"
+          },
+          {
+            "id": "3015948",
+            "name": "Gironde"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInm2-YD_8IORyqszRAmVg"
+    },
+    {
+      "node": {
+        "id": "3031005",
+        "name": "Бурж",
+        "latitude": 47.08333,
+        "longitude": 2.4,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "24",
+        "division2Code": "18",
+        "division3Code": "181",
+        "division4Code": "18033",
+        "population": "67987",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454979",
+            "name": "Bourges"
+          },
+          {
+            "id": "3031004",
+            "name": "Arrondissement de Bourges"
+          },
+          {
+            "id": "3025480",
+            "name": "Cher"
+          },
+          {
+            "id": "3027939",
+            "name": "Centre-Val de Loire"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPj2O8F_8IASSuqwZKYlg"
+    },
+    {
+      "node": {
+        "id": "2977921",
+        "name": "Сен-Назер",
+        "latitude": 47.27506,
+        "longitude": -2.2179,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "52",
+        "division2Code": "44",
+        "division3Code": "443",
+        "division4Code": "44184",
+        "population": "67054",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6434534",
+            "name": "Saint-Nazaire"
+          },
+          {
+            "id": "2977920",
+            "name": "Arrondissement de Saint-Nazaire"
+          },
+          {
+            "id": "2997861",
+            "name": "Loire-Atlantique"
+          },
+          {
+            "id": "2988289",
+            "name": "Земли Луары"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfl0e0B_8IAQCapJnRKJg"
+    },
+    {
+      "node": {
+        "id": "3024297",
+        "name": "Кольмар",
+        "latitude": 48.08078,
+        "longitude": 7.35584,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "68",
+        "division3Code": "682",
+        "division4Code": "68066",
+        "population": "65405",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455228",
+            "name": "Colmar"
+          },
+          {
+            "id": "3024296",
+            "name": "Arrondissement de Colmar-Ribeauvillé"
+          },
+          {
+            "id": "3013663",
+            "name": "Haut-Rhin"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLm2uYH_8ICRCOofhvMMw"
+    },
+    {
+      "node": {
+        "id": "2971053",
+        "name": "Valence",
+        "latitude": 44.9256,
+        "longitude": 4.90956,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "26",
+        "division3Code": "263",
+        "division4Code": "26362",
+        "population": "63864",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453882",
+            "name": "Валанс"
+          },
+          {
+            "id": "2971049",
+            "name": "Arrondissement de Valence"
+          },
+          {
+            "id": "3020781",
+            "name": "Drôme"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfj2OoD_8IESCWpRuv_PQ"
+    },
+    {
+      "node": {
+        "id": "2984701",
+        "name": "Кемпер",
+        "latitude": 47.99597,
+        "longitude": -4.09795,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "53",
+        "division2Code": "29",
+        "division3Code": "294",
+        "division4Code": "29232",
+        "population": "63849",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6431033",
+            "name": "Quimper"
+          },
+          {
+            "id": "2984700",
+            "name": "Arrondissement de Quimper"
+          },
+          {
+            "id": "3018471",
+            "name": "Finistère"
+          },
+          {
+            "id": "3030293",
+            "name": "Бретань"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjm3-8B_8IESCekFCOjtQ"
+    },
+    {
+      "node": {
+        "id": "3020839",
+        "name": "Дранси",
+        "latitude": 48.92578,
+        "longitude": 2.44533,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "932",
+        "division4Code": "93029",
+        "population": "62488",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451990",
+            "name": "Drancy"
+          },
+          {
+            "id": "6457372",
+            "name": "Arrondissement du Raincy"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLi0OwJ_8IFRCulGa8fcw"
+    },
+    {
+      "node": {
+        "id": "2990189",
+        "name": "Шумная-ле-Гран",
+        "latitude": 48.84979,
+        "longitude": 2.56266,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "93",
+        "division3Code": "932",
+        "division4Code": "93051",
+        "population": "62420",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451999",
+            "name": "Noisy-le-Grand"
+          },
+          {
+            "id": "6457372",
+            "name": "Arrondissement du Raincy"
+          },
+          {
+            "id": "2975246",
+            "name": "Seine-Saint-Denis"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni2ecJ_8IFRCGtsrJpBQ"
+    },
+    {
+      "node": {
+        "id": "6543862",
+        "name": "Вильнёв-д’Аск",
+        "latitude": 50.61669,
+        "longitude": 3.16664,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "59",
+        "division3Code": "595",
+        "division4Code": "59009",
+        "population": "62400",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "2968577",
+            "name": "Вильнёв-д'Аск"
+          },
+          {
+            "id": "2998323",
+            "name": "Arrondissement de Lille"
+          },
+          {
+            "id": "2990129",
+            "name": "North"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGotITh0OkC_8IFRCOthKQL8g"
+    },
+    {
+      "node": {
+        "id": "3006414",
+        "name": "Ла-Сен-сюр-Мер",
+        "latitude": 43.10322,
+        "longitude": 5.87816,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "83",
+        "division3Code": "832",
+        "division4Code": "83126",
+        "population": "62330",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6456548",
+            "name": "La Seyne-sur-Mer"
+          },
+          {
+            "id": "2972326",
+            "name": "Arrondissement de Toulon"
+          },
+          {
+            "id": "2970749",
+            "name": "Var"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYDk3O4E_8IFQyCt4h12zQ"
+    },
+    {
+      "node": {
+        "id": "2998975",
+        "name": "Леваллуа-Перре",
+        "latitude": 48.89389,
+        "longitude": 2.28864,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92044",
+        "population": "62178",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451971",
+            "name": "Levallois-Perret"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInq0egF_8IFQSSluiAo7Q"
+    },
+    {
+      "node": {
+        "id": "7284895",
+        "name": "Marseille 14",
+        "latitude": 43.34447,
+        "longitude": 5.38004,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "61920",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYF_8IGSSGtIY-CnA"
+    },
+    {
+      "node": {
+        "id": "3027422",
+        "name": "Шамбери",
+        "latitude": 45.56628,
+        "longitude": 5.92079,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "73",
+        "division3Code": "732",
+        "division4Code": "73065",
+        "population": "61640",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455250",
+            "name": "Chambéry"
+          },
+          {
+            "id": "3027421",
+            "name": "Arrondissement de Chambéry"
+          },
+          {
+            "id": "2975517",
+            "name": "Savoie"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLl3O0C_8IGRietsdoJPw"
+    },
+    {
+      "node": {
+        "id": "3012649",
+        "name": "Исси-ле-Мулино",
+        "latitude": 48.82104,
+        "longitude": 2.27718,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "923",
+        "division4Code": "92040",
+        "population": "61447",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451970",
+            "name": "Issy-les-Moulineaux"
+          },
+          {
+            "id": "6457370",
+            "name": "Arrondissement de Boulogne-Billancourt"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYHg3usJ_8IGRCeqA9rm5w"
+    },
+    {
+      "node": {
+        "id": "2990611",
+        "name": "Нёйи-сюр-Сен",
+        "latitude": 48.8846,
+        "longitude": 2.26965,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92051",
+        "population": "61300",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6451977",
+            "name": "Neuilly-sur-Seine"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni3u4B_8IGQyOtXnEzXA"
+    },
+    {
+      "node": {
+        "id": "2971549",
+        "name": "Труа",
+        "latitude": 48.30073,
+        "longitude": 4.08524,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "44",
+        "division2Code": "10",
+        "division3Code": "103",
+        "division4Code": "10387",
+        "population": "60785",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453634",
+            "name": "Troyes"
+          },
+          {
+            "id": "2971548",
+            "name": "Arrondissement de Troyes"
+          },
+          {
+            "id": "3036420",
+            "name": "Aube"
+          },
+          {
+            "id": "11071622",
+            "name": "Grand Est"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfj3esJ_8IHRyuoR9dbYg"
+    },
+    {
+      "node": {
+        "id": "3037423",
+        "name": "Antony",
+        "latitude": 48.75329,
+        "longitude": 2.29668,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "921",
+        "division4Code": "92002",
+        "population": "59845",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452604",
+            "name": "Антони"
+          },
+          {
+            "id": "6457368",
+            "name": "Arrondissement d'Antony"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPl3O0D_8EOSCeoIYxg2g"
+    },
+    {
+      "node": {
+        "id": "3006767",
+        "name": "Ла-Рош-сюр-Йон",
+        "latitude": 46.66974,
+        "longitude": -1.42757,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "52",
+        "division2Code": "85",
+        "division3Code": "852",
+        "division4Code": "85191",
+        "population": "59410",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6456577",
+            "name": "La Roche-sur-Yon"
+          },
+          {
+            "id": "3006766",
+            "name": "Arrondissement de La Roche-sur-Yon"
+          },
+          {
+            "id": "2970140",
+            "name": "Vendée"
+          },
+          {
+            "id": "2988289",
+            "name": "Земли Луары"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYDk3-kH_8EORCKt7R1qeQ"
+    },
+    {
+      "node": {
+        "id": "7284893",
+        "name": "Marseille 12",
+        "latitude": 43.29614,
+        "longitude": 5.43617,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "58734",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYD_8EPRyCp0lWVlw"
+    },
+    {
+      "node": {
+        "id": "2997577",
+        "name": "Лорьян",
+        "latitude": 47.74817,
+        "longitude": -3.37177,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "53",
+        "division2Code": "56",
+        "division3Code": "561",
+        "division4Code": "56121",
+        "population": "58112",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6437298",
+            "name": "Lorient"
+          },
+          {
+            "id": "2997576",
+            "name": "Arrondissement de Lorient"
+          },
+          {
+            "id": "2991879",
+            "name": "Morbihan"
+          },
+          {
+            "id": "3030293",
+            "name": "Бретань"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuInl3egH_8EPQSKvKfHGcg"
+    },
+    {
+      "node": {
+        "id": "2976043",
+        "name": "Сарсель",
+        "latitude": 48.99739,
+        "longitude": 2.37821,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "95",
+        "division3Code": "952",
+        "division4Code": "95585",
+        "population": "57979",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6446337",
+            "name": "Sarcelles"
+          },
+          {
+            "id": "6457377",
+            "name": "Arrondissement de Sarcelles"
+          },
+          {
+            "id": "2971071",
+            "name": "Val d'Oise"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfk2OsD_8EASSSkZoXogg"
+    },
+    {
+      "node": {
+        "id": "2987805",
+        "name": "Пессаке",
+        "latitude": 44.80565,
+        "longitude": -0.6324,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "33",
+        "division3Code": "332",
+        "division4Code": "33318",
+        "population": "57944",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454014",
+            "name": "Pessac"
+          },
+          {
+            "id": "3031580",
+            "name": "Arrondissement de Bordeaux"
+          },
+          {
+            "id": "3015948",
+            "name": "Gironde"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIjl0O8F_8EASSepGny2Sw"
+    },
+    {
+      "node": {
+        "id": "3012621",
+        "name": "Иври-сюр-Сен",
+        "latitude": 48.81568,
+        "longitude": 2.38487,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "94",
+        "division3Code": "943",
+        "division4Code": "94041",
+        "population": "57897",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452021",
+            "name": "Ivry-sur-Seine"
+          },
+          {
+            "id": "6457375",
+            "name": "Arrondissement de L'Haÿ-les-Roses"
+          },
+          {
+            "id": "2971090",
+            "name": "Val-de-Marne"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYHg3u0B_8EASCqqXnc3Qg"
+    },
+    {
+      "node": {
+        "id": "3019265",
+        "name": "Эврё",
+        "latitude": 49.02414,
+        "longitude": 1.15082,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "28",
+        "division2Code": "27",
+        "division3Code": "273",
+        "division4Code": "27229",
+        "population": "57795",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453890",
+            "name": "Évreux"
+          },
+          {
+            "id": "3019264",
+            "name": "Arrondissement d'Évreux"
+          },
+          {
+            "id": "3019317",
+            "name": "Eure"
+          },
+          {
+            "id": "11071621",
+            "name": "Normandy"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYHr2ukF_8EARyqo2sNGOA"
+    },
+    {
+      "node": {
+        "id": "2970072",
+        "name": "Венисье",
+        "latitude": 45.69706,
+        "longitude": 4.88593,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "84",
+        "division2Code": "69",
+        "division3Code": "691",
+        "division4Code": "69259",
+        "population": "57584",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6441809",
+            "name": "Vénissieux"
+          },
+          {
+            "id": "2996943",
+            "name": "Arrondissement de Lyon"
+          },
+          {
+            "id": "2987410",
+            "name": "Rhône"
+          },
+          {
+            "id": "11071625",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfi2OgC_8EARSupJUy-1A"
+    },
+    {
+      "node": {
+        "id": "3027883",
+        "name": "Сержи",
+        "latitude": 49.03645,
+        "longitude": 2.07613,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "95",
+        "division3Code": "953",
+        "division4Code": "95127",
+        "population": "57576",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454886",
+            "name": "Cergy"
+          },
+          {
+            "id": "2986139",
+            "name": "Arrondissement de Pontoise"
+          },
+          {
+            "id": "2971071",
+            "name": "Val d'Oise"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLl0OcD_8EARSSrsbeJeA"
+    },
+    {
+      "node": {
+        "id": "3024597",
+        "name": "Клиши",
+        "latitude": 48.90018,
+        "longitude": 2.30952,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "11",
+        "division2Code": "92",
+        "division3Code": "922",
+        "division4Code": "92024",
+        "population": "57467",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455396",
+            "name": "Клиши-ла-Гаренн"
+          },
+          {
+            "id": "6457369",
+            "name": "Arrondissement de Nanterre"
+          },
+          {
+            "id": "3013657",
+            "name": "Hauts-de-Seine"
+          },
+          {
+            "id": "3012874",
+            "name": "Île-de-France Region"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYLm3eYH_8EARCWqNsjoWQ"
+    },
+    {
+      "node": {
+        "id": "7284892",
+        "name": "Marseille 11",
+        "latitude": 43.2907,
+        "longitude": 5.4384,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "93",
+        "division2Code": "13",
+        "division3Code": "133",
+        "division4Code": "13055",
+        "population": "56792",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6447142",
+            "name": "Marseille"
+          },
+          {
+            "id": "2995468",
+            "name": "Arrondissement de Marseille"
+          },
+          {
+            "id": "3031359",
+            "name": "Bouches-du-Rhône"
+          },
+          {
+            "id": "2985244",
+            "name": "Прованс — Альпы — Лазурный Берег"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGps4jm0OYC_8EBRyqvDpCRBA"
+    },
+    {
+      "node": {
+        "id": "2977295",
+        "name": "Saint-Quentin",
+        "latitude": 49.84889,
+        "longitude": 3.28757,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "32",
+        "division2Code": "02",
+        "division3Code": "023",
+        "division4Code": "02691",
+        "population": "55407",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6453541",
+            "name": "Сен-Кантен"
+          },
+          {
+            "id": "2977293",
+            "name": "Arrondissement de Saint-Quentin"
+          },
+          {
+            "id": "3038375",
+            "name": "Aisne"
+          },
+          {
+            "id": "11071624",
+            "name": "Hauts-de-France"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIfl2uYF_8ECRCOqJHgD-w"
+    },
+    {
+      "node": {
+        "id": "2990355",
+        "name": "Ньор",
+        "latitude": 46.32313,
+        "longitude": -0.45877,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "75",
+        "division2Code": "79",
+        "division3Code": "792",
+        "division4Code": "79191",
+        "population": "54660",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6454744",
+            "name": "Niort"
+          },
+          {
+            "id": "2990354",
+            "name": "Arrondissement de Niort"
+          },
+          {
+            "id": "3021501",
+            "name": "Deux-Sèvres"
+          },
+          {
+            "id": "11071620",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGsuIni2-oF_8EDRiWt5RR7lw"
+    },
+    {
+      "node": {
+        "id": "3033791",
+        "name": "Бельфор",
+        "latitude": 47.64218,
+        "longitude": 6.85385,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "27",
+        "division2Code": "90",
+        "division3Code": "901",
+        "division4Code": "90010",
+        "population": "54562",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6455331",
+            "name": "Belfort"
+          },
+          {
+            "id": "3033790",
+            "name": "Arrondissement de Belfort"
+          },
+          {
+            "id": "3033789",
+            "name": "Территория Бельфор"
+          },
+          {
+            "id": "11071619",
+            "name": "Bourgogne-Franche-Comté"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPh3-YB_8EDRSWv6SSFWA"
+    },
+    {
+      "node": {
+        "id": "3038334",
+        "name": "Аяччо",
+        "latitude": 41.91886,
+        "longitude": 8.73812,
+        "type": "city",
+        "continentCode": "EU",
+        "countryCode": "FR",
+        "division1Code": "94",
+        "division2Code": "2A",
+        "division3Code": "2A1",
+        "division4Code": "2A004",
+        "population": "54364",
+        "timezone": "Europe/Paris",
+        "parentRegions": [
+          {
+            "id": "6452235",
+            "name": "Ajaccio"
+          },
+          {
+            "id": "3038333",
+            "name": "Arrondissement d'Ajaccio"
+          },
+          {
+            "id": "3023514",
+            "name": "South Corsica"
+          },
+          {
+            "id": "3023519",
+            "name": "Corsica"
+          },
+          {
+            "id": "3017382",
+            "name": "Франция"
+          },
+          {
+            "id": "6255148",
+            "name": "Европа"
+          }
+        ]
+      },
+      "cursor": "C5VGsOGtsYPq2-wE_8EDQyWpk7Tc1Q"
+    }
+  ],
+  "pageInfo": {
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "startCursor": "C5VGsOGsuIjq3e8H_8YGQyuoXG0UROcN",
+    "endCursor": "C5VGsOGtsYPq2-wE_8EDQyWpk7Tc1Q"
+  }
+}

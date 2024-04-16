@@ -1,0 +1,5189 @@
+[
+    {
+      "id": "2077456",
+      "name": "Австралия",
+      "latitude": -25,
+      "longitude": 135,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "AU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "24992369",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2782113",
+      "name": "Австрия",
+      "latitude": 47.33333,
+      "longitude": 13.33333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "AT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8847037",
+      "timezone": "Europe/Vienna",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "587116",
+      "name": "Азербайджан",
+      "latitude": 40.5,
+      "longitude": 47.5,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "AZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9942334",
+      "timezone": "Asia/Baku",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "661882",
+      "name": "Аланды",
+      "latitude": 60.25,
+      "longitude": 20,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "AX",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "26711",
+      "timezone": "Europe/Mariehamn",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "783754",
+      "name": "Албания",
+      "latitude": 41,
+      "longitude": 20,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "AL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2866376",
+      "timezone": "Europe/Tirane",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2589581",
+      "name": "Алжир",
+      "latitude": 28,
+      "longitude": 3,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "DZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "42228429",
+      "timezone": "Africa/Algiers",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "5880801",
+      "name": "Американское Самоа",
+      "latitude": -14.23377,
+      "longitude": -169.47767,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "AS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "55465",
+      "timezone": "Pacific/Pago_Pago",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3573511",
+      "name": "Ангилья",
+      "latitude": 18.21667,
+      "longitude": -63.05,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "AI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "13254",
+      "timezone": "America/Anguilla",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3351879",
+      "name": "Ангола",
+      "latitude": -12.5,
+      "longitude": 18.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "AO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "30809762",
+      "timezone": "Africa/Luanda",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3041565",
+      "name": "Андорра",
+      "latitude": 42.55,
+      "longitude": 1.58333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "AD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "77006",
+      "timezone": "Europe/Andorra",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "6697173",
+      "name": "Антарктида",
+      "latitude": -82.67628,
+      "longitude": 8.78906,
+      "type": "country",
+      "continentCode": "AN",
+      "countryCode": "AQ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "0",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255152",
+          "name": "Антарктика"
+        }
+      ]
+    },
+    {
+      "id": "3576396",
+      "name": "Антигуа и Барбуда",
+      "latitude": 17.05,
+      "longitude": -61.8,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "AG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "96286",
+      "timezone": "America/Antigua",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3865483",
+      "name": "Аргентина",
+      "latitude": -34,
+      "longitude": -64,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "AR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "44494502",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "174982",
+      "name": "Армения",
+      "latitude": 40.25,
+      "longitude": 45,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "AM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2951776",
+      "timezone": "Asia/Yerevan",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3577279",
+      "name": "Аруба",
+      "latitude": 12.5,
+      "longitude": -69.96667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "AW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "105845",
+      "timezone": "America/Aruba",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1149361",
+      "name": "Афганистан",
+      "latitude": 33,
+      "longitude": 66,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "AF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37172386",
+      "timezone": "Asia/Kabul",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3572887",
+      "name": "Багамы",
+      "latitude": 25.04082,
+      "longitude": -77.37122,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "385640",
+      "timezone": "America/Nassau",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1210997",
+      "name": "Бангладеш",
+      "latitude": 24,
+      "longitude": 90,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "BD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "161356039",
+      "timezone": "Asia/Dhaka",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3374084",
+      "name": "Барбадос",
+      "latitude": 13.16453,
+      "longitude": -59.55165,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BB",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "286641",
+      "timezone": "America/Barbados",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "290291",
+      "name": "Бахрейн",
+      "latitude": 26.03333,
+      "longitude": 50.55,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "BH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1569439",
+      "timezone": "Asia/Bahrain",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "630336",
+      "name": "Беларусь",
+      "latitude": 53,
+      "longitude": 28,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "BY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9485386",
+      "timezone": "Europe/Minsk",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3582678",
+      "name": "Белиз",
+      "latitude": 17.25,
+      "longitude": -88.75,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "383071",
+      "timezone": "America/Belize",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2802361",
+      "name": "Бельгия",
+      "latitude": 50.75,
+      "longitude": 4.5,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "BE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11422068",
+      "timezone": "Europe/Brussels",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2395170",
+      "name": "Бенин",
+      "latitude": 9.5,
+      "longitude": 2.25,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "BJ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11485048",
+      "timezone": "Africa/Porto-Novo",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3573345",
+      "name": "Бермудские о-ва",
+      "latitude": 32.33022,
+      "longitude": -64.74003,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "63968",
+      "timezone": "Atlantic/Bermuda",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "732800",
+      "name": "Болгария",
+      "latitude": 42.66667,
+      "longitude": 25.25,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "BG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7000039",
+      "timezone": "Europe/Sofia",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3923057",
+      "name": "Боливия",
+      "latitude": -17,
+      "longitude": -65,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "BO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11353142",
+      "timezone": "America/La_Paz",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "7626844",
+      "name": "Бонэйр, Синт-Эстатиус и Саба",
+      "latitude": 12.21286,
+      "longitude": -68.29445,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BQ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "18012",
+      "timezone": "America/Kralendijk",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3277605",
+      "name": "Босния и Герцеговина",
+      "latitude": 44.25,
+      "longitude": 17.83333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "BA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3323929",
+      "timezone": "Europe/Sarajevo",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "933860",
+      "name": "Ботсвана",
+      "latitude": -22,
+      "longitude": 24,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "BW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2254126",
+      "timezone": "Africa/Gaborone",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3469034",
+      "name": "Бразилия",
+      "latitude": -10,
+      "longitude": -55,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "BR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "209469333",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2635167",
+      "name": "Британия",
+      "latitude": 54.75844,
+      "longitude": -2.69531,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "GB",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "66488991",
+      "timezone": "Europe/London",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "1820814",
+      "name": "Бруней-Даруссалам",
+      "latitude": 4.5,
+      "longitude": 114.66667,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "BN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "428962",
+      "timezone": "Asia/Brunei",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2361809",
+      "name": "Буркина-Фасо",
+      "latitude": 12.5,
+      "longitude": -1.66667,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "BF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "19751535",
+      "timezone": "Africa/Ouagadougou",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "433561",
+      "name": "Бурунди",
+      "latitude": -3.5,
+      "longitude": 30,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "BI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11175378",
+      "timezone": "Africa/Bujumbura",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1252634",
+      "name": "Бутан",
+      "latitude": 27.5,
+      "longitude": 90.5,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "BT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "754394",
+      "timezone": "Asia/Thimphu",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2134431",
+      "name": "Вануату",
+      "latitude": -16.3333,
+      "longitude": 167.5,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "VU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "292680",
+      "timezone": "Pacific/Efate",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3164670",
+      "name": "Ватикан",
+      "latitude": 41.90225,
+      "longitude": 12.4533,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "VA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "921",
+      "timezone": "Europe/Vatican",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "719819",
+      "name": "Венгрия",
+      "latitude": 47,
+      "longitude": 20,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "HU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9768785",
+      "timezone": "Europe/Budapest",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3625428",
+      "name": "Венесуэла",
+      "latitude": 8,
+      "longitude": -66,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "VE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "28870195",
+      "timezone": "America/Caracas",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3577718",
+      "name": "Виргинские о-ва (Великобритания)",
+      "latitude": 18.5,
+      "longitude": -64.5,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "VG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "29802",
+      "timezone": "America/Tortola",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "4796775",
+      "name": "Виргинские о-ва (США)",
+      "latitude": 18.34829,
+      "longitude": -64.98348,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "VI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "106977",
+      "timezone": "America/St_Thomas",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "5854968",
+      "name": "Внешние малые о-ва (США)",
+      "latitude": 5.875,
+      "longitude": -162.057,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "UM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "0",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1562822",
+      "name": "Вьетнам",
+      "latitude": 16.16667,
+      "longitude": 107.83333,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "VN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "95540395",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2400553",
+      "name": "Габон",
+      "latitude": -1,
+      "longitude": 11.75,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2119275",
+      "timezone": "Africa/Libreville",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3723988",
+      "name": "Гаити",
+      "latitude": 19.07582,
+      "longitude": -72.29616,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "HT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11123176",
+      "timezone": "America/Port-au-Prince",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3378535",
+      "name": "Гайана",
+      "latitude": 5,
+      "longitude": -59,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "GY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "779004",
+      "timezone": "America/Guyana",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2413451",
+      "name": "Гамбия",
+      "latitude": 13.5,
+      "longitude": -15.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2280102",
+      "timezone": "Africa/Banjul",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2300660",
+      "name": "Гана",
+      "latitude": 8.1,
+      "longitude": -1.2,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "29767108",
+      "timezone": "Africa/Accra",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3579143",
+      "name": "Гваделупа",
+      "latitude": 16.25,
+      "longitude": -61.58333,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "GP",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "443000",
+      "timezone": "America/Guadeloupe",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3595528",
+      "name": "Гватемала",
+      "latitude": 15.5,
+      "longitude": -90.25,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "GT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17247807",
+      "timezone": "America/Guatemala",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2420477",
+      "name": "Гвинея",
+      "latitude": 10.83333,
+      "longitude": -10.66667,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "12414318",
+      "timezone": "Africa/Conakry",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2372248",
+      "name": "Гвинея-Бисау",
+      "latitude": 12,
+      "longitude": -15,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1874309",
+      "timezone": "Africa/Bissau",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3042362",
+      "name": "Гернси",
+      "latitude": 49.45474,
+      "longitude": -2.57629,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "GG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "65228",
+      "timezone": "Europe/Guernsey",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2411586",
+      "name": "Гибралтар",
+      "latitude": 36.13333,
+      "longitude": -5.35,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "GI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "33718",
+      "timezone": "Europe/Gibraltar",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3608932",
+      "name": "Гондурас",
+      "latitude": 15,
+      "longitude": -86.5,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "HN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9587522",
+      "timezone": "America/Tegucigalpa",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1819730",
+      "name": "Гонконг",
+      "latitude": 22.25,
+      "longitude": 114.16667,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "HK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7451000",
+      "timezone": "Asia/Hong_Kong",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3580239",
+      "name": "Гренада",
+      "latitude": 12.11667,
+      "longitude": -61.66667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "GD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "111454",
+      "timezone": "America/Grenada",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3425505",
+      "name": "Гренландия",
+      "latitude": 72,
+      "longitude": -40,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "GL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "56025",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "390903",
+      "name": "Греция",
+      "latitude": 39,
+      "longitude": 22,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "GR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "10727668",
+      "timezone": "Europe/Athens",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "614540",
+      "name": "Грузия",
+      "latitude": 41.99998,
+      "longitude": 43.4999,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "GE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3731000",
+      "timezone": "Asia/Tbilisi",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "4043988",
+      "name": "Гуам",
+      "latitude": 13.47861,
+      "longitude": 144.81834,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "GU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "165768",
+      "timezone": "Pacific/Guam",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2623032",
+      "name": "Дания",
+      "latitude": 56,
+      "longitude": 10,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "DK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5797446",
+      "timezone": "Europe/Copenhagen",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3042142",
+      "name": "Джерси",
+      "latitude": 49.21667,
+      "longitude": -2.11667,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "JE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "90812",
+      "timezone": "Europe/Jersey",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "223816",
+      "name": "Джибути",
+      "latitude": 11.83333,
+      "longitude": 42.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "DJ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "958920",
+      "timezone": "Africa/Djibouti",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3575830",
+      "name": "Доминика",
+      "latitude": 15.5,
+      "longitude": -61.33333,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "DM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "71625",
+      "timezone": "America/Dominica",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3508796",
+      "name": "Доминиканская Республика",
+      "latitude": 19,
+      "longitude": -70.66667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "DO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "10627165",
+      "timezone": "America/Santo_Domingo",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "357994",
+      "name": "Египет",
+      "latitude": 27,
+      "longitude": 30,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "EG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "98423595",
+      "timezone": "Africa/Cairo",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "203312",
+      "name": "Заир",
+      "latitude": -2.5,
+      "longitude": 23.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "84068091",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "895949",
+      "name": "Замбия",
+      "latitude": -14.33333,
+      "longitude": 28.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ZM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17351822",
+      "timezone": "Africa/Lusaka",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2461445",
+      "name": "Западная Сахара",
+      "latitude": 24.49215,
+      "longitude": -12.65625,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "EH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "273008",
+      "timezone": "Africa/El_Aaiun",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "878675",
+      "name": "Зимбабве",
+      "latitude": -19,
+      "longitude": 29.75,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ZW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "14439018",
+      "timezone": "Africa/Harare",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "294640",
+      "name": "Израиль",
+      "latitude": 31.5,
+      "longitude": 34.75,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "IL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8883800",
+      "timezone": "Asia/Jerusalem",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1269750",
+      "name": "Индия",
+      "latitude": 22,
+      "longitude": 79,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "IN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1352617328",
+      "timezone": "Asia/Kolkata",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1643084",
+      "name": "Индонезия",
+      "latitude": -5,
+      "longitude": 120,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "ID",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "267663435",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "248816",
+      "name": "Иордания",
+      "latitude": 31,
+      "longitude": 36,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "JO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9956011",
+      "timezone": "Asia/Amman",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "99237",
+      "name": "Ирак",
+      "latitude": 33,
+      "longitude": 44,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "IQ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "38433600",
+      "timezone": "Asia/Baghdad",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "130758",
+      "name": "Иран",
+      "latitude": 32,
+      "longitude": 53,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "IR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "81800269",
+      "timezone": "Asia/Tehran",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2963597",
+      "name": "Ирландия",
+      "latitude": 53,
+      "longitude": -8,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "IE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4853506",
+      "timezone": "Europe/Dublin",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2629691",
+      "name": "Исландия",
+      "latitude": 65,
+      "longitude": -18,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "IS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "353574",
+      "timezone": "Atlantic/Reykjavik",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2510769",
+      "name": "Испания",
+      "latitude": 40,
+      "longitude": -4,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "ES",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "46723749",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3175395",
+      "name": "Италия",
+      "latitude": 42.83333,
+      "longitude": 12.83333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "IT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "60431283",
+      "timezone": "Europe/Rome",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "69543",
+      "name": "Йемен",
+      "latitude": 15.5,
+      "longitude": 47.5,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "YE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "28498687",
+      "timezone": "Asia/Aden",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1873107",
+      "name": "КНДР",
+      "latitude": 40,
+      "longitude": 127,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KP",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "25549819",
+      "timezone": "Asia/Pyongyang",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3374766",
+      "name": "Кабо-Верде",
+      "latitude": 16,
+      "longitude": -24,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CV",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "543767",
+      "timezone": "Atlantic/Cape_Verde",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1522867",
+      "name": "Казахстан",
+      "latitude": 48,
+      "longitude": 68,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "18276499",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3580718",
+      "name": "Каймановы Острова",
+      "latitude": 19.5,
+      "longitude": -80.66667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "KY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "64174",
+      "timezone": "America/Cayman",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1831722",
+      "name": "Камбоджа",
+      "latitude": 13,
+      "longitude": 105,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "16249798",
+      "timezone": "Asia/Phnom_Penh",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2233387",
+      "name": "Камерун",
+      "latitude": 6,
+      "longitude": 12.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "25216237",
+      "timezone": "Africa/Douala",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "6251999",
+      "name": "Канада",
+      "latitude": 60.10867,
+      "longitude": -113.64258,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "CA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37058856",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "289688",
+      "name": "Катар",
+      "latitude": 25.5,
+      "longitude": 51.25,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "QA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2781677",
+      "timezone": "Asia/Qatar",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "192950",
+      "name": "Кения",
+      "latitude": 1,
+      "longitude": 38,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "KE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "51393010",
+      "timezone": "Africa/Nairobi",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "146669",
+      "name": "Кипр",
+      "latitude": 35,
+      "longitude": 33,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "CY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1189265",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "1527747",
+      "name": "Киргизия",
+      "latitude": 41.5,
+      "longitude": 75,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6315800",
+      "timezone": "Asia/Bishkek",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "4030945",
+      "name": "Кирибати",
+      "latitude": 1.421,
+      "longitude": 172.984,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "KI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "115847",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1814991",
+      "name": "Китай",
+      "latitude": 35,
+      "longitude": 105,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "CN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1411778724",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1547376",
+      "name": "Кокосовые о-ва",
+      "latitude": -12.1642,
+      "longitude": 96.87332,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "CC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "628",
+      "timezone": "Indian/Cocos",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3686110",
+      "name": "Колумбия",
+      "latitude": 4,
+      "longitude": -73.25,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "CO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "49648685",
+      "timezone": "America/Bogota",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "921929",
+      "name": "Коморы",
+      "latitude": -12.23333,
+      "longitude": 44.44553,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "KM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "832322",
+      "timezone": "Indian/Comoro",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "831053",
+      "name": "Косово",
+      "latitude": 42.58333,
+      "longitude": 20.91667,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "XK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1845300",
+      "timezone": "Europe/Belgrade",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3624060",
+      "name": "Коста-Рика",
+      "latitude": 10,
+      "longitude": -84,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "CR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4999441",
+      "timezone": "America/Costa_Rica",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2287781",
+      "name": "Кот-д’Ивуар",
+      "latitude": 8,
+      "longitude": -5.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "25069229",
+      "timezone": "Africa/Abidjan",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3562981",
+      "name": "Куба",
+      "latitude": 22,
+      "longitude": -79.5,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "CU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11338138",
+      "timezone": "America/Havana",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "285570",
+      "name": "Кувейт",
+      "latitude": 29.5,
+      "longitude": 47.75,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4137309",
+      "timezone": "Asia/Kuwait",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "7626836",
+      "name": "Кюрасао",
+      "latitude": 12.16667,
+      "longitude": -68.96667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "CW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "159849",
+      "timezone": "America/Curacao",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1655842",
+      "name": "Лаос",
+      "latitude": 18,
+      "longitude": 105,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "LA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7061507",
+      "timezone": "Asia/Vientiane",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "458258",
+      "name": "Латвия",
+      "latitude": 57,
+      "longitude": 25,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "LV",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1926542",
+      "timezone": "Europe/Riga",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "932692",
+      "name": "Лесото",
+      "latitude": -29.5,
+      "longitude": 28.25,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "LS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2108132",
+      "timezone": "Africa/Maseru",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2275384",
+      "name": "Либерия",
+      "latitude": 6.5,
+      "longitude": -9.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "LR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4818977",
+      "timezone": "Africa/Monrovia",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "272103",
+      "name": "Ливан",
+      "latitude": 33.83333,
+      "longitude": 35.83333,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "LB",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6848925",
+      "timezone": "Asia/Beirut",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2215636",
+      "name": "Ливия",
+      "latitude": 28,
+      "longitude": 17,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "LY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6678567",
+      "timezone": "Africa/Tripoli",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "597427",
+      "name": "Литва",
+      "latitude": 55.41667,
+      "longitude": 24,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "LT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2789533",
+      "timezone": "Europe/Vilnius",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3042058",
+      "name": "Лихтенштейн",
+      "latitude": 47.16667,
+      "longitude": 9.53333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "LI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37910",
+      "timezone": "Europe/Vaduz",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2960313",
+      "name": "Люксембург",
+      "latitude": 49.75,
+      "longitude": 6.16667,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "LU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "607728",
+      "timezone": "Europe/Luxembourg",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "934292",
+      "name": "Маврикий",
+      "latitude": -20.3,
+      "longitude": 57.58333,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1265303",
+      "timezone": "Indian/Mauritius",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2378080",
+      "name": "Мавритания",
+      "latitude": 20.25,
+      "longitude": -10.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4403319",
+      "timezone": "Africa/Nouakchott",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1062947",
+      "name": "Мадагаскар",
+      "latitude": -20,
+      "longitude": 47,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "26262368",
+      "timezone": "Indian/Antananarivo",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1024031",
+      "name": "Майотта",
+      "latitude": -12.83333,
+      "longitude": 45.16667,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "YT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "279471",
+      "timezone": "Indian/Mayotte",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1821275",
+      "name": "Макао",
+      "latitude": 22.15778,
+      "longitude": 113.55972,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "MO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "631636",
+      "timezone": "Asia/Macau",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "927384",
+      "name": "Малави",
+      "latitude": -13.5,
+      "longitude": 34,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17563749",
+      "timezone": "Africa/Blantyre",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1733045",
+      "name": "Малайзия",
+      "latitude": 2.5,
+      "longitude": 112.5,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "MY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "31528585",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2453866",
+      "name": "Мали",
+      "latitude": 18,
+      "longitude": -2,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ML",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "19077690",
+      "timezone": "Africa/Bamako",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1282028",
+      "name": "Мальдивы",
+      "latitude": 3.2,
+      "longitude": 73,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "MV",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "515696",
+      "timezone": "Indian/Maldives",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2562770",
+      "name": "Мальта",
+      "latitude": 35.91667,
+      "longitude": 14.43333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "MT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "483530",
+      "timezone": "Europe/Malta",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2542007",
+      "name": "Марокко",
+      "latitude": 28.5,
+      "longitude": -10,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "36029138",
+      "timezone": "Africa/Casablanca",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3570311",
+      "name": "Мартиника",
+      "latitude": 14.66667,
+      "longitude": -61,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "MQ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "432900",
+      "timezone": "America/Martinique",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2080185",
+      "name": "Маршалловы Острова",
+      "latitude": 7.113,
+      "longitude": 171.236,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "MH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "58413",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3996063",
+      "name": "Мексика",
+      "latitude": 23,
+      "longitude": -102,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "MX",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "126190788",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1036973",
+      "name": "Мозамбик",
+      "latitude": -18.25,
+      "longitude": 35,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "MZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "29495962",
+      "timezone": "Africa/Maputo",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "617790",
+      "name": "Молдова",
+      "latitude": 47.25,
+      "longitude": 28.58333,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "MD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3545883",
+      "timezone": "Europe/Chisinau",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2993457",
+      "name": "Монако",
+      "latitude": 43.73141,
+      "longitude": 7.41903,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "MC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "38682",
+      "timezone": "Europe/Monaco",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2029969",
+      "name": "Монголия",
+      "latitude": 46,
+      "longitude": 105,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "MN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3170208",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3578097",
+      "name": "Монсеррат",
+      "latitude": 16.75,
+      "longitude": -62.2,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "MS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9341",
+      "timezone": "America/Montserrat",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1327865",
+      "name": "Мьянма (Бирма)",
+      "latitude": 21,
+      "longitude": 96,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "MM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "53708395",
+      "timezone": "Asia/Yangon",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3355338",
+      "name": "Намибия",
+      "latitude": -22,
+      "longitude": 17,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "NA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2448255",
+      "timezone": "Africa/Windhoek",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2110425",
+      "name": "Науру",
+      "latitude": -0.517,
+      "longitude": 166.933,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "NR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "12704",
+      "timezone": "Pacific/Nauru",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1282988",
+      "name": "Непал",
+      "latitude": 28,
+      "longitude": 84,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "NP",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "28087871",
+      "timezone": "Asia/Kathmandu",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "2440476",
+      "name": "Нигер",
+      "latitude": 18,
+      "longitude": 9,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "NE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "22442948",
+      "timezone": "Africa/Niamey",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2328926",
+      "name": "Нигерия",
+      "latitude": 10,
+      "longitude": 8,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "NG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "195874740",
+      "timezone": "Africa/Lagos",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2750405",
+      "name": "Нидерланды",
+      "latitude": 52.25,
+      "longitude": 5.75,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "NL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17231017",
+      "timezone": "Europe/Amsterdam",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3617476",
+      "name": "Никарагуа",
+      "latitude": 13,
+      "longitude": -85,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "NI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6465513",
+      "timezone": "America/Managua",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "4036232",
+      "name": "Ниуэ",
+      "latitude": -19.03333,
+      "longitude": -169.86667,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "NU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2166",
+      "timezone": "Pacific/Niue",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2186224",
+      "name": "Новая Зеландия",
+      "latitude": -42,
+      "longitude": 174,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "NZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4885500",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2139685",
+      "name": "Новая Каледония",
+      "latitude": -21.5,
+      "longitude": 165.5,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "NC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "284060",
+      "timezone": "Pacific/Noumea",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3144096",
+      "name": "Норвегия",
+      "latitude": 62,
+      "longitude": 10,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "NO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5314336",
+      "timezone": "Europe/Oslo",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "290557",
+      "name": "ОАЭ",
+      "latitude": 23.75,
+      "longitude": 54.5,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "AE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9630959",
+      "timezone": "Asia/Dubai",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "286963",
+      "name": "Оман",
+      "latitude": 21,
+      "longitude": 57,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "OM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4829483",
+      "timezone": "Asia/Muscat",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3578476",
+      "name": "Остров Святого Бартоломея",
+      "latitude": 17.9,
+      "longitude": -62.8257,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "BL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8450",
+      "timezone": "America/St_Barthelemy",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3578421",
+      "name": "Остров Святого Мартина",
+      "latitude": 18.06667,
+      "longitude": -63.06667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "MF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37264",
+      "timezone": "America/Marigot",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1899402",
+      "name": "Острова Кука",
+      "latitude": -21.24842,
+      "longitude": -159.78516,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "CK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "21388",
+      "timezone": "Pacific/Rarotonga",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1168579",
+      "name": "Пакистан",
+      "latitude": 30,
+      "longitude": 70,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "PK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "212215030",
+      "timezone": "Asia/Karachi",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1559582",
+      "name": "Палау",
+      "latitude": 7.503,
+      "longitude": 134.621,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "PW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17907",
+      "timezone": "Pacific/Palau",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "6254930",
+      "name": "Палестина",
+      "latitude": 31.92157,
+      "longitude": 35.20329,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "PS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4569087",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3703430",
+      "name": "Панама",
+      "latitude": 9,
+      "longitude": -80,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "PA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4176873",
+      "timezone": "America/Panama",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2088628",
+      "name": "Папуа — Новая Гвинея",
+      "latitude": -6,
+      "longitude": 147,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "PG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8606316",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3437598",
+      "name": "Парагвай",
+      "latitude": -23.33333,
+      "longitude": -58,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "PY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6956071",
+      "timezone": "America/Asuncion",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3932488",
+      "name": "Перу",
+      "latitude": -10,
+      "longitude": -75.25,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "PE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "31989256",
+      "timezone": "America/Lima",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "798544",
+      "name": "Польша",
+      "latitude": 52,
+      "longitude": 20,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "PL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37978548",
+      "timezone": "Europe/Warsaw",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2264397",
+      "name": "Португалия",
+      "latitude": 39.6945,
+      "longitude": -8.13057,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "PT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "10281762",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "4566966",
+      "name": "Пуэрто-Рико",
+      "latitude": 18.24829,
+      "longitude": -66.49989,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "PR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3195153",
+      "timezone": "America/Puerto_Rico",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2260494",
+      "name": "Республика Конго",
+      "latitude": -1,
+      "longitude": 15.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5244363",
+      "timezone": "Africa/Brazzaville",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1835841",
+      "name": "Республика Корея",
+      "latitude": 36.5,
+      "longitude": 127.75,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "KR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "51635256",
+      "timezone": "Asia/Seoul",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "935317",
+      "name": "Реюньон",
+      "latitude": -21.1,
+      "longitude": 55.6,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "RE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "776948",
+      "timezone": "Indian/Reunion",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2017370",
+      "name": "Россия",
+      "latitude": 60,
+      "longitude": 100,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "RU",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "144478050",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "49518",
+      "name": "Руанда",
+      "latitude": -2,
+      "longitude": 30,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "RW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "12301939",
+      "timezone": "Africa/Kigali",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "798549",
+      "name": "Румыния",
+      "latitude": 46,
+      "longitude": 25,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "RO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "19473936",
+      "timezone": "Europe/Bucharest",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "6252001",
+      "name": "США",
+      "latitude": 39.76,
+      "longitude": -98.5,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "US",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "327167434",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3585968",
+      "name": "Сальвадор",
+      "latitude": 13.83333,
+      "longitude": -88.91667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "SV",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6420744",
+      "timezone": "America/El_Salvador",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "4034894",
+      "name": "Самоа",
+      "latitude": -13.8,
+      "longitude": -172.13333,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "WS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "196130",
+      "timezone": "Pacific/Apia",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3168068",
+      "name": "Сан-Марино",
+      "latitude": 43.9367,
+      "longitude": 12.4463,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "SM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "33785",
+      "timezone": "Europe/San_Marino",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2410758",
+      "name": "Сан-Томе и Принсипе",
+      "latitude": 1,
+      "longitude": 7,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ST",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "197700",
+      "timezone": "Africa/Sao_Tome",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "102358",
+      "name": "Саудовская Аравия",
+      "latitude": 25,
+      "longitude": 45,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "SA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "33699947",
+      "timezone": "Asia/Riyadh",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "718075",
+      "name": "Северная Македония",
+      "latitude": 41.66667,
+      "longitude": 21.75,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "MK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2082958",
+      "timezone": "Europe/Skopje",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "4041468",
+      "name": "Северные Марианские о-ва",
+      "latitude": 15.214,
+      "longitude": 145.756,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "MP",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "56882",
+      "timezone": "Pacific/Saipan",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "241170",
+      "name": "Сейшельские Острова",
+      "latitude": -4.58333,
+      "longitude": 55.66667,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "96762",
+      "timezone": "Indian/Mahe",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3424932",
+      "name": "Сен-Пьер и Микелон",
+      "latitude": 46.83333,
+      "longitude": -56.33333,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "PM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7012",
+      "timezone": "America/Miquelon",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2245662",
+      "name": "Сенегал",
+      "latitude": 14.5,
+      "longitude": -14.25,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "15854360",
+      "timezone": "Africa/Dakar",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3577815",
+      "name": "Сент-Винсент и Гренадины",
+      "latitude": 13.08333,
+      "longitude": -61.2,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "VC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "110211",
+      "timezone": "America/St_Vincent",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3575174",
+      "name": "Сент-Китс и Невис",
+      "latitude": 17.33333,
+      "longitude": -62.75,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "KN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "52441",
+      "timezone": "America/St_Kitts",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3576468",
+      "name": "Сент-Люсия",
+      "latitude": 13.88333,
+      "longitude": -60.96667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "LC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "181889",
+      "timezone": "America/St_Lucia",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "6290252",
+      "name": "Сербия",
+      "latitude": 44.81892,
+      "longitude": 20.45998,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "RS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6982084",
+      "timezone": "Europe/Belgrade",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "1880251",
+      "name": "Сингапур",
+      "latitude": 1.36667,
+      "longitude": 103.8,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "SG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5638676",
+      "timezone": "Asia/Singapore",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "7609695",
+      "name": "Синт-Мартен",
+      "latitude": 18.04167,
+      "longitude": -63.06667,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "SX",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "40654",
+      "timezone": "America/Lower_Princes",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "163843",
+      "name": "Сирия",
+      "latitude": 35,
+      "longitude": 38,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "SY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "16906283",
+      "timezone": "Asia/Damascus",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3057568",
+      "name": "Словакия",
+      "latitude": 48.66667,
+      "longitude": 19.5,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "SK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5447011",
+      "timezone": "Europe/Bratislava",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3190538",
+      "name": "Словения",
+      "latitude": 46.08333,
+      "longitude": 15,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "SI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2067372",
+      "timezone": "Europe/Ljubljana",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2103350",
+      "name": "Соломонские острова",
+      "latitude": -8,
+      "longitude": 159,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "SB",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "652858",
+      "timezone": "Pacific/Guadalcanal",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "51537",
+      "name": "Сомали",
+      "latitude": 6,
+      "longitude": 48,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "15008154",
+      "timezone": "Africa/Mogadishu",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "366755",
+      "name": "Судан",
+      "latitude": 16,
+      "longitude": 30,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "41801533",
+      "timezone": "Africa/Khartoum",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3382998",
+      "name": "Суринам",
+      "latitude": 4,
+      "longitude": -56,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "SR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "575991",
+      "timezone": "America/Paramaribo",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2403846",
+      "name": "Сьерра-Леоне",
+      "latitude": 8.5,
+      "longitude": -11.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7650154",
+      "timezone": "Africa/Freetown",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1220409",
+      "name": "Таджикистан",
+      "latitude": 39,
+      "longitude": 71,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "TJ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "9100837",
+      "timezone": "Asia/Dushanbe",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1668284",
+      "name": "Тайвань",
+      "latitude": 24,
+      "longitude": 121,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "TW",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "23451837",
+      "timezone": "Asia/Taipei",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "1605651",
+      "name": "Тайланд",
+      "latitude": 15.5,
+      "longitude": 101,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "TH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "69428524",
+      "timezone": "Asia/Bangkok",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "149590",
+      "name": "Танзания",
+      "latitude": -6,
+      "longitude": 35,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "TZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "56318348",
+      "timezone": "Africa/Dar_es_Salaam",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1966436",
+      "name": "Тимор-Лесте",
+      "latitude": -8.83333,
+      "longitude": 125.75,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "TL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1267972",
+      "timezone": "Asia/Dili",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2363686",
+      "name": "Того",
+      "latitude": 8.66667,
+      "longitude": 1.08333,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "TG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7889094",
+      "timezone": "Africa/Lome",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "4031074",
+      "name": "Токелау",
+      "latitude": -9.167,
+      "longitude": -171.83,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "TK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1466",
+      "timezone": "Pacific/Fakaofo",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "4032283",
+      "name": "Тонга",
+      "latitude": -20,
+      "longitude": -175,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "TO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "103197",
+      "timezone": "Pacific/Tongatapu",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3573591",
+      "name": "Тринидад и Тобаго",
+      "latitude": 11,
+      "longitude": -61,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "TT",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1389858",
+      "timezone": "America/Port_of_Spain",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2110297",
+      "name": "Тувалу",
+      "latitude": -8.51719,
+      "longitude": 179.14478,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "TV",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11508",
+      "timezone": "Pacific/Funafuti",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2464461",
+      "name": "Тунис",
+      "latitude": 34,
+      "longitude": 9,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "TN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "11565204",
+      "timezone": "Africa/Tunis",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1218197",
+      "name": "Туркменистан",
+      "latitude": 39.75,
+      "longitude": 59.66667,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "TM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5850908",
+      "timezone": "Asia/Ashgabat",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "298795",
+      "name": "Турция",
+      "latitude": 39,
+      "longitude": 35,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "TR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "82319724",
+      "timezone": "Europe/Istanbul",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "226074",
+      "name": "Уганда",
+      "latitude": 1.25,
+      "longitude": 32.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "UG",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "42723139",
+      "timezone": "Africa/Kampala",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "1512440",
+      "name": "Узбекистан",
+      "latitude": 41.66667,
+      "longitude": 63.83333,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "UZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "32955400",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "690791",
+      "name": "Украина",
+      "latitude": 49,
+      "longitude": 32,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "UA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "44622516",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "4034749",
+      "name": "Уоллис и Футуна",
+      "latitude": -13.3,
+      "longitude": -176.2,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "WF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "16025",
+      "timezone": "Pacific/Wallis",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3439705",
+      "name": "Уругвай",
+      "latitude": -33,
+      "longitude": -56,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "UY",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3449299",
+      "timezone": "America/Montevideo",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2921044",
+      "name": "ФРГ",
+      "latitude": 51.5,
+      "longitude": 10.5,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "DE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "82927922",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2622320",
+      "name": "Фарерские о-ва",
+      "latitude": 62,
+      "longitude": -7,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "FO",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "48497",
+      "timezone": "Atlantic/Faroe",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2081918",
+      "name": "Федеративные Штаты Микронезии",
+      "latitude": 6.924,
+      "longitude": 158.162,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "FM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "112640",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2205218",
+      "name": "Фиджи",
+      "latitude": -18,
+      "longitude": 178,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "FJ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "883483",
+      "timezone": "Pacific/Fiji",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1694008",
+      "name": "Филиппины",
+      "latitude": 13.40882,
+      "longitude": 122.56155,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "PH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "106651922",
+      "timezone": "Asia/Manila",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "660013",
+      "name": "Финляндия",
+      "latitude": 64,
+      "longitude": 26,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "FI",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "5518050",
+      "timezone": "Europe/Helsinki",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3474414",
+      "name": "Фолклендские о-ва",
+      "latitude": -51.75,
+      "longitude": -59.16667,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "FK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2638",
+      "timezone": "Atlantic/Stanley",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "3017382",
+      "name": "Франция",
+      "latitude": 46,
+      "longitude": 2,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "FR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "66987244",
+      "timezone": "Europe/Paris",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3381670",
+      "name": "Французская Гвиана",
+      "latitude": 4,
+      "longitude": -53,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "GF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "195506",
+      "timezone": "America/Cayenne",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "4030656",
+      "name": "Французская Полинезия",
+      "latitude": -15,
+      "longitude": -140,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "PF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "277679",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "1546748",
+      "name": "Французские Южные территории",
+      "latitude": -43,
+      "longitude": 67,
+      "type": "country",
+      "continentCode": "AN",
+      "countryCode": "TF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "140",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255152",
+          "name": "Антарктика"
+        }
+      ]
+    },
+    {
+      "id": "3202326",
+      "name": "Хорватия",
+      "latitude": 45.16667,
+      "longitude": 15.5,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "HR",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "3871833",
+      "timezone": "Europe/Zagreb",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "239880",
+      "name": "Центрально-Африканская Республика",
+      "latitude": 7,
+      "longitude": 21,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "CF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "4666377",
+      "timezone": "Africa/Bangui",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "2434508",
+      "name": "Чад",
+      "latitude": 15,
+      "longitude": 19,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "TD",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "15477751",
+      "timezone": "Africa/Ndjamena",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3194884",
+      "name": "Черногория",
+      "latitude": 42.75,
+      "longitude": 19.25,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "ME",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "622345",
+      "timezone": "Europe/Podgorica",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3077311",
+      "name": "Чехия",
+      "latitude": 49.75,
+      "longitude": 15,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "CZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "10625695",
+      "timezone": "Europe/Prague",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "3895114",
+      "name": "Чили",
+      "latitude": -30,
+      "longitude": -71,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "CL",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "18729160",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2658434",
+      "name": "Швейцария",
+      "latitude": 47.00016,
+      "longitude": 8.01427,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "CH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8516543",
+      "timezone": "Europe/Zurich",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2661886",
+      "name": "Швеция",
+      "latitude": 62,
+      "longitude": 15,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "SE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "10183175",
+      "timezone": "Europe/Stockholm",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "607072",
+      "name": "Шпицберген и Ян-Майен",
+      "latitude": 78,
+      "longitude": 20,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "SJ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2550",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "1227603",
+      "name": "Шри-Ланка",
+      "latitude": 7.75,
+      "longitude": 80.75,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "LK",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "21670000",
+      "timezone": "Asia/Colombo",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3658394",
+      "name": "Эквадор",
+      "latitude": -1.25,
+      "longitude": -78.25,
+      "type": "country",
+      "continentCode": "SA",
+      "countryCode": "EC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "17084357",
+      "timezone": "",
+      "parentRegions": [
+        {
+          "id": "6255150",
+          "name": "Южная Америка"
+        }
+      ]
+    },
+    {
+      "id": "2309096",
+      "name": "Экваториальная Гвинея",
+      "latitude": 1.7,
+      "longitude": 10.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "GQ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1308974",
+      "timezone": "Africa/Malabo",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "338010",
+      "name": "Эритрея",
+      "latitude": 15,
+      "longitude": 39,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ER",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "6209262",
+      "timezone": "Africa/Asmara",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "934841",
+      "name": "Эсватини",
+      "latitude": -26.5,
+      "longitude": 31.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SZ",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1136191",
+      "timezone": "Africa/Mbabane",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "453733",
+      "name": "Эстония",
+      "latitude": 59,
+      "longitude": 26,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "EE",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1320884",
+      "timezone": "Europe/Tallinn",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "337996",
+      "name": "Эфиопия",
+      "latitude": 9,
+      "longitude": 39.5,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ET",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "109224559",
+      "timezone": "Africa/Addis_Ababa",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "953987",
+      "name": "ЮАР",
+      "latitude": -29,
+      "longitude": 24,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "ZA",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "57779622",
+      "timezone": "Africa/Johannesburg",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3474415",
+      "name": "Южная Георгия и Южные Сандвичевы о-ва",
+      "latitude": -56,
+      "longitude": -33,
+      "type": "country",
+      "continentCode": "AN",
+      "countryCode": "GS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "30",
+      "timezone": "Atlantic/South_Georgia",
+      "parentRegions": [
+        {
+          "id": "6255152",
+          "name": "Антарктика"
+        }
+      ]
+    },
+    {
+      "id": "7909807",
+      "name": "Южный Судан",
+      "latitude": 7.5,
+      "longitude": 30,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SS",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "8260490",
+      "timezone": "Africa/Juba",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "3489940",
+      "name": "Ямайка",
+      "latitude": 18.16667,
+      "longitude": -77.25,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "JM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "2934855",
+      "timezone": "America/Jamaica",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    },
+    {
+      "id": "1861060",
+      "name": "Япония",
+      "latitude": 35.68536,
+      "longitude": 139.75309,
+      "type": "country",
+      "continentCode": "AS",
+      "countryCode": "JP",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "126529100",
+      "timezone": "Asia/Tokyo",
+      "parentRegions": [
+        {
+          "id": "6255147",
+          "name": "Азия"
+        }
+      ]
+    },
+    {
+      "id": "3042225",
+      "name": "о-в Мэн",
+      "latitude": 54.25,
+      "longitude": -4.5,
+      "type": "country",
+      "continentCode": "EU",
+      "countryCode": "IM",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "84077",
+      "timezone": "Europe/Isle_of_Man",
+      "parentRegions": [
+        {
+          "id": "6255148",
+          "name": "Европа"
+        }
+      ]
+    },
+    {
+      "id": "2155115",
+      "name": "о-в Норфолк",
+      "latitude": -29.03333,
+      "longitude": 167.95,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "NF",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1828",
+      "timezone": "Pacific/Norfolk",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "2078138",
+      "name": "о-в Рождества",
+      "latitude": -10.5,
+      "longitude": 105.66667,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "CX",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "1500",
+      "timezone": "Indian/Christmas",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3370751",
+      "name": "о-в Св. Елены",
+      "latitude": -15.95,
+      "longitude": -5.7,
+      "type": "country",
+      "continentCode": "AF",
+      "countryCode": "SH",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "7460",
+      "timezone": "Atlantic/St_Helena",
+      "parentRegions": [
+        {
+          "id": "6255146",
+          "name": "Африка"
+        }
+      ]
+    },
+    {
+      "id": "4030699",
+      "name": "о-ва Питкэрн",
+      "latitude": -25.06667,
+      "longitude": -130.1,
+      "type": "country",
+      "continentCode": "OC",
+      "countryCode": "PN",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "46",
+      "timezone": "Pacific/Pitcairn",
+      "parentRegions": [
+        {
+          "id": "6255151",
+          "name": "Океания"
+        }
+      ]
+    },
+    {
+      "id": "3576916",
+      "name": "о-ва Тёркс и Кайкос",
+      "latitude": 21.73333,
+      "longitude": -71.58333,
+      "type": "country",
+      "continentCode": "NA",
+      "countryCode": "TC",
+      "division1Code": "00",
+      "division2Code": null,
+      "division3Code": null,
+      "division4Code": null,
+      "population": "37665",
+      "timezone": "America/Grand_Turk",
+      "parentRegions": [
+        {
+          "id": "6255149",
+          "name": "Северная Америка"
+        }
+      ]
+    }
+  ]

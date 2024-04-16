@@ -1,5 +1,4 @@
 from asgiref.sync import sync_to_async
-from django.core.cache import cache
 from events.models import BattleFormat, BattleType
 from social_bot.config.config import storage
 
@@ -16,8 +15,10 @@ class DataLoader:
     async def load_data(self, data_type, queryset):
         data = await sync_to_async(list)(queryset)
         formatted_data = [{"id": item.id, "name": str(item)} for item in data]
-        await self.storage.set_data(key=data_type, data={data_type: formatted_data})
-        print(formatted_data)
+        await self.storage.set_data(
+            key=data_type,
+            data={data_type: formatted_data})
+        print(f'DataLoader - {formatted_data}')
 
 
 async def load_data():

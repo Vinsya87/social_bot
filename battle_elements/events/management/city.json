@@ -1,0 +1,3221 @@
+{
+    "edges": [{
+            "node": {
+                "id": "524901",
+                "name": "Москва",
+                "latitude": 55.75222,
+                "longitude": 37.61556,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "48",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "10381222",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "524894",
+                        "name": "Москва"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Tr2O4K9MQESCKvW24okNH4"
+        },
+        {
+            "node": {
+                "id": "498817",
+                "name": "Петербург",
+                "latitude": 59.93863,
+                "longitude": 30.31413,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "66",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "5351935",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "536203",
+                        "name": "Санкт-Петербург"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIjq2egK8McCQSquXMJd14U"
+        },
+        {
+            "node": {
+                "id": "1496747",
+                "name": "Новосибирск",
+                "latitude": 55.0415,
+                "longitude": 82.9346,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "53",
+                "division2Code": "1496742",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1612833",
+                "timezone": "Asia/Novosibirsk",
+                "parentRegions": [{
+                        "id": "1496742",
+                        "name": "Новосибирский Район"
+                    },
+                    {
+                        "id": "1496745",
+                        "name": "Новосибирская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYnk3-sH_8UBQSGlWm83Mr8k"
+        },
+        {
+            "node": {
+                "id": "1486209",
+                "name": "Екатеринбург",
+                "latitude": 56.8519,
+                "longitude": 60.6122,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "71",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1495066",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1490542",
+                        "name": "Свердловская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYjk2u8J_8UDSSatX2okbfr6"
+        },
+        {
+            "node": {
+                "id": "520555",
+                "name": "Нижний Новгород",
+                "latitude": 56.32867,
+                "longitude": 44.00205,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "51",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1259013",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "559838",
+                        "name": "Нижегородская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Dn3eoK9MYCSSOsWsZ2Y6Q"
+        },
+        {
+            "node": {
+                "id": "551487",
+                "name": "Казань",
+                "latitude": 55.78874,
+                "longitude": 49.12214,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "73",
+                "division2Code": "862913",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1243500",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "862913",
+                        "name": "Gorod Kazan’"
+                    },
+                    {
+                        "id": "484048",
+                        "name": "Татарстан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtIHm0OgK9MYDQyatWQaBdW0"
+        },
+        {
+            "node": {
+                "id": "1508291",
+                "name": "Челябинск",
+                "latitude": 55.15402,
+                "longitude": 61.42915,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "13",
+                "division2Code": "1535932",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1202371",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1535932",
+                        "name": "Город Челябинск"
+                    },
+                    {
+                        "id": "1508290",
+                        "name": "Челябинская"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIDq2uYB_8UFQCGuXm2b3E_B"
+        },
+        {
+            "node": {
+                "id": "1496153",
+                "name": "Омск",
+                "latitude": 54.99244,
+                "longitude": 73.36859,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "54",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1172070",
+                "timezone": "Asia/Omsk",
+                "parentRegions": [{
+                        "id": "1496152",
+                        "name": "Омская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYnk2eoD_8UGRyGtXmxe1wQN"
+        },
+        {
+            "node": {
+                "id": "499099",
+                "name": "Самара",
+                "latitude": 53.20007,
+                "longitude": 50.15,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "65",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1163399",
+                "timezone": "Europe/Samara",
+                "parentRegions": [{
+                        "id": "499068",
+                        "name": "Самарская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIni0eYK9MUBQyCkUFW10F0"
+        },
+        {
+            "node": {
+                "id": "501175",
+                "name": "Ростов-на-Дону",
+                "latitude": 47.23135,
+                "longitude": 39.72328,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "61",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1130305",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "501165",
+                        "name": "Ростовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsYHj3-oK9MUEQCCtXNodz6k"
+        },
+        {
+            "node": {
+                "id": "479561",
+                "name": "Уфа",
+                "latitude": 54.74306,
+                "longitude": 55.96779,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "08",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1120547",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "578853",
+                        "name": "Башкортостан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtonn3u4K9MUFQCapXhvtDYc"
+        },
+        {
+            "node": {
+                "id": "1502026",
+                "name": "Красноярск",
+                "latitude": 56.01839,
+                "longitude": 92.86717,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "91",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1090811",
+                "timezone": "Asia/Krasnoyarsk",
+                "parentRegions": [{
+                        "id": "1502020",
+                        "name": "Красноярский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIDg2O0G_8UHSSOlWG1NXjpv"
+        },
+        {
+            "node": {
+                "id": "472045",
+                "name": "Воронеж",
+                "latitude": 51.67204,
+                "longitude": 39.1843,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "86",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1047549",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "472039",
+                        "name": "Воронежская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoLi3OoK9MQDRyapULuNQZ8"
+        },
+        {
+            "node": {
+                "id": "472757",
+                "name": "Волгоград",
+                "latitude": 48.71939,
+                "longitude": 44.50183,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "84",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "1013533",
+                "timezone": "Europe/Volgograd",
+                "parentRegions": [{
+                        "id": "472755",
+                        "name": "Волгоградская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoLl3egK9MQGQyauWloyCFg"
+        },
+        {
+            "node": {
+                "id": "511196",
+                "name": "Пермь",
+                "latitude": 58.01046,
+                "longitude": 56.25017,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "90",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "982419",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "511180",
+                        "name": "Пермский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsIHj0ekK_MwFRCKkELNfyw"
+        },
+        {
+            "node": {
+                "id": "542420",
+                "name": "Краснодар",
+                "latitude": 45.04484,
+                "longitude": 38.97603,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "38",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "899541",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "542415",
+                        "name": "Краснодарский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtYLm2u8K_c0ORSes9wxPyQ"
+        },
+        {
+            "node": {
+                "id": "498677",
+                "name": "Саратов",
+                "latitude": 51.54056,
+                "longitude": 46.00861,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "67",
+                "division2Code": "498661",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "844858",
+                "timezone": "Europe/Saratov",
+                "parentRegions": [{
+                        "id": "498661",
+                        "name": "Saratovskiy Rayon"
+                    },
+                    {
+                        "id": "498671",
+                        "name": "Саратовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIjk3-gK_cADSCalSIvBIw"
+        },
+        {
+            "node": {
+                "id": "1488754",
+                "name": "Тюмень",
+                "latitude": 57.15222,
+                "longitude": 65.52722,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "78",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "768358",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1488747",
+                        "name": "Тюмень"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYjq3-oE_8MBSCCoUdk3Rbk"
+        },
+        {
+            "node": {
+                "id": "482283",
+                "name": "Тольятти",
+                "latitude": 53.5303,
+                "longitude": 49.3461,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "65",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "702879",
+                "timezone": "Europe/Samara",
+                "parentRegions": [{
+                        "id": "499068",
+                        "name": "Самарская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYLg0OwK8sQFSCSktVxI7g"
+        },
+        {
+            "node": {
+                "id": "554840",
+                "name": "Ижевск",
+                "latitude": 56.84976,
+                "longitude": 53.20448,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "80",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "648213",
+                "timezone": "Europe/Samara",
+                "parentRegions": [{
+                        "id": "479613",
+                        "name": "Удмуртия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtITq3O8K88APQiKu-G38vA"
+        },
+        {
+            "node": {
+                "id": "1510853",
+                "name": "Барнаул",
+                "latitude": 53.36056,
+                "longitude": 83.76361,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "04",
+                "division2Code": "1535931",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "632372",
+                "timezone": "Asia/Barnaul",
+                "parentRegions": [{
+                        "id": "1535931",
+                        "name": "Городской округ Барнаул"
+                    },
+                    {
+                        "id": "1511732",
+                        "name": "Алтайский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIHi0OoD_8IEQiCqWy9Vg3E"
+        },
+        {
+            "node": {
+                "id": "479123",
+                "name": "Ульяновск",
+                "latitude": 54.32824,
+                "longitude": 48.38657,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "81",
+                "division2Code": "479105",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "626540",
+                "timezone": "Europe/Ulyanovsk",
+                "parentRegions": [{
+                        "id": "479105",
+                        "name": "Ульяновский район"
+                    },
+                    {
+                        "id": "479119",
+                        "name": "Ульяновская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtonj2uwK88YBRSetC9KI8A"
+        },
+        {
+            "node": {
+                "id": "2023469",
+                "name": "Иркутск",
+                "latitude": 52.29778,
+                "longitude": 104.29639,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "20",
+                "division2Code": "2023464",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "623869",
+                "timezone": "Asia/Irkutsk",
+                "parentRegions": [{
+                        "id": "2023464",
+                        "name": "Иркутский район"
+                    },
+                    {
+                        "id": "2023468",
+                        "name": "Иркутская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLh3OkJ_8IFQyurUKk7-3U"
+        },
+        {
+            "node": {
+                "id": "2022890",
+                "name": "Хабаровск",
+                "latitude": 48.48271,
+                "longitude": 135.08379,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "30",
+                "division2Code": "2022887",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "618150",
+                "timezone": "Asia/Vladivostok",
+                "parentRegions": [{
+                        "id": "2022887",
+                        "name": "Хаба́ровский райо́н"
+                    },
+                    {
+                        "id": "2022888",
+                        "name": "Хабаровский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLg0OYA_8IGSCKoWZIIg_Y"
+        },
+        {
+            "node": {
+                "id": "468902",
+                "name": "Ярославль",
+                "latitude": 57.62987,
+                "longitude": 39.87368,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "88",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "608722",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "468898",
+                        "name": "Ярославская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqt4jr2O0K88QPRyGvIP8ZQA"
+        },
+        {
+            "node": {
+                "id": "2013348",
+                "name": "Владивосток",
+                "latitude": 43.10562,
+                "longitude": 131.87353,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "59",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "604901",
+                "timezone": "Asia/Vladivostok",
+                "parentRegions": [{
+                        "id": "2017623",
+                        "name": "Приморский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYHh2-sI_8IHRCqtWP4UgcY"
+        },
+        {
+            "node": {
+                "id": "532096",
+                "name": "Махачкала",
+                "latitude": 42.97638,
+                "longitude": 47.50236,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "17",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "596356",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "567293",
+                        "name": "Дагестан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsoLi0ekK8M0BQyar87v4ow"
+        },
+        {
+            "node": {
+                "id": "1489425",
+                "name": "Томск",
+                "latitude": 56.49771,
+                "longitude": 84.97437,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "75",
+                "division2Code": "1489419",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "574002",
+                "timezone": "Asia/Tomsk",
+                "parentRegions": [{
+                        "id": "1489419",
+                        "name": "То́мский райо́н"
+                    },
+                    {
+                        "id": "1489421",
+                        "name": "Томская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYjr3O0F_8EARCOtW4TZJgc"
+        },
+        {
+            "node": {
+                "id": "515003",
+                "name": "Оренбург",
+                "latitude": 51.7727,
+                "longitude": 55.0988,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "55",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "564773",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "515001",
+                        "name": "Оренбургская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsIXi2OwK8MIDRySul6vgiQ"
+        },
+        {
+            "node": {
+                "id": "1503901",
+                "name": "Кемерово",
+                "latitude": 55.33333,
+                "longitude": 86.08333,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "29",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "558973",
+                "timezone": "Asia/Novokuznetsk",
+                "parentRegions": [{
+                        "id": "1503900",
+                        "name": "Кузба́сс"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIDh0e8B_8ECSCqqWnbYmpw"
+        },
+        {
+            "node": {
+                "id": "1496990",
+                "name": "Новокузнецк",
+                "latitude": 53.7557,
+                "longitude": 87.1099,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "29",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "539616",
+                "timezone": "Asia/Novokuznetsk",
+                "parentRegions": [{
+                        "id": "1503900",
+                        "name": "Кузба́сс"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYnk0eYA_8EESSWsX7dC8z4"
+        },
+        {
+            "node": {
+                "id": "500096",
+                "name": "Рязань",
+                "latitude": 54.6269,
+                "longitude": 39.6916,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "62",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "538962",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "500059",
+                        "name": "Рязанская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsYDi0ekK8McPSSWvCMYckA"
+        },
+        {
+            "node": {
+                "id": "580497",
+                "name": "Астрахань",
+                "latitude": 46.34968,
+                "longitude": 48.04076,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "07",
+                "division2Code": "824964",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "533925",
+                "timezone": "Europe/Astrakhan",
+                "parentRegions": [{
+                        "id": "824964",
+                        "name": "Астрахань"
+                    },
+                    {
+                        "id": "580491",
+                        "name": "Астраханская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGruYDm0egK8McESSGoapechA"
+        },
+        {
+            "node": {
+                "id": "511565",
+                "name": "Пенза",
+                "latitude": 53.20066,
+                "longitude": 45.00464,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "57",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "523553",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "511555",
+                        "name": "Пензенская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsIHn3uoK8MYERSauwYeDfQ"
+        },
+        {
+            "node": {
+                "id": "523750",
+                "name": "Набережные Челны",
+                "latitude": 55.72545,
+                "longitude": 52.41122,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "73",
+                "division2Code": "480620",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "509870",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "480620",
+                        "name": "Tukayevskiy Rayon"
+                    },
+                    {
+                        "id": "484048",
+                        "name": "Татарстан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Pl3e8K8MQOSCSt9aVX9g"
+        },
+        {
+            "node": {
+                "id": "535121",
+                "name": "Липецк",
+                "latitude": 52.60311,
+                "longitude": 39.57076,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "43",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "509735",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "535120",
+                        "name": "Липецкая область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsoXj2u4K8MQORyCoSxoIiQ"
+        },
+        {
+            "node": {
+                "id": "548408",
+                "name": "Киров",
+                "latitude": 58.59665,
+                "longitude": 49.66007,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "33",
+                "division2Code": "548394",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "507155",
+                "timezone": "Europe/Kirov",
+                "parentRegions": [{
+                        "id": "548394",
+                        "name": "Кирово-Чепецкий район"
+                    },
+                    {
+                        "id": "548389",
+                        "name": "Кировская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtYjm2OcK8MQAQSaoJX9wMw"
+        },
+        {
+            "node": {
+                "id": "569696",
+                "name": "Чебоксары",
+                "latitude": 56.13222,
+                "longitude": 47.25194,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "16",
+                "division2Code": "569698",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "492331",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "569698",
+                        "name": "Чебоксарский район"
+                    },
+                    {
+                        "id": "567395",
+                        "name": "Чувашия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrt4nk0ekK8c0FQyCsipjE4g"
+        },
+        {
+            "node": {
+                "id": "480562",
+                "name": "Тула",
+                "latitude": 54.19609,
+                "longitude": 37.61822,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "76",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "482873",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "480508",
+                        "name": "Тульская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYDn3u0K8cwFSCSuSBA8VQ"
+        },
+        {
+            "node": {
+                "id": "554234",
+                "name": "Калининград",
+                "latitude": 54.70649,
+                "longitude": 20.51095,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "23",
+                "division2Code": "825118",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "475056",
+                "timezone": "Europe/Kaliningrad",
+                "parentRegions": [{
+                        "id": "825118",
+                        "name": "Город Калининград"
+                    },
+                    {
+                        "id": "554230",
+                        "name": "Калининградская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtITg2-sK8cMCQCara8WQhQ"
+        },
+        {
+            "node": {
+                "id": "538560",
+                "name": "Курск",
+                "latitude": 51.73733,
+                "longitude": 36.18735,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "41",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "448733",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "538555",
+                        "name": "Курская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsojn3u8K8cAPRyCuVF3i7A"
+        },
+        {
+            "node": {
+                "id": "487846",
+                "name": "Ставрополь",
+                "latitude": 45.0428,
+                "longitude": 41.9734,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "70",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "433931",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "487839",
+                        "name": "Ставрополье"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYfq3OkK8ccESSCsanoTVA"
+        },
+        {
+            "node": {
+                "id": "571476",
+                "name": "Брянск",
+                "latitude": 53.25209,
+                "longitude": 34.37167,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "10",
+                "division2Code": "571467",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "427236",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "571467",
+                        "name": "Брянский район"
+                    },
+                    {
+                        "id": "571473",
+                        "name": "Брянская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtoHm3-kK8cYAQiCr6QLVJQ"
+        },
+        {
+            "node": {
+                "id": "480060",
+                "name": "Тверь",
+                "latitude": 56.85836,
+                "longitude": 35.90057,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "77",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "420065",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "480041",
+                        "name": "Тверская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYDi3u8K8cYHQCWo_fNczg"
+        },
+        {
+            "node": {
+                "id": "532288",
+                "name": "Магнитогорск",
+                "latitude": 53.41861,
+                "longitude": 59.04722,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "13",
+                "division2Code": "825030",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "413351",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "825030",
+                        "name": "Город Магнитогорск"
+                    },
+                    {
+                        "id": "1508290",
+                        "name": "Челябинская"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsoLg0OcK8cUEQyasK6Uylg"
+        },
+        {
+            "node": {
+                "id": "555312",
+                "name": "Иваново",
+                "latitude": 56.99719,
+                "longitude": 40.97139,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "21",
+                "division2Code": "825094",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "406113",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "825094",
+                        "name": "Город Иваново"
+                    },
+                    {
+                        "id": "555235",
+                        "name": "Ивановская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtIXh2e0K8cQBQSKue6xwxw"
+        },
+        {
+            "node": {
+                "id": "520494",
+                "name": "Нижний Тагил",
+                "latitude": 57.91944,
+                "longitude": 59.965,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "71",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "381116",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1490542",
+                        "name": "Свердловская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Dm0esK9swGQSKrHoc_8g"
+        },
+        {
+            "node": {
+                "id": "2014407",
+                "name": "Улан-Удэ",
+                "latitude": 51.82721,
+                "longitude": 107.60627,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "11",
+                "division2Code": "2050912",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "360278",
+                "timezone": "Asia/Irkutsk",
+                "parentRegions": [{
+                        "id": "2050912",
+                        "name": "Иволгинский район"
+                    },
+                    {
+                        "id": "2050915",
+                        "name": "Бурятия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYHm3O8H_8cBQCGqUaNlyyY"
+        },
+        {
+            "node": {
+                "id": "473247",
+                "name": "Владимир",
+                "latitude": 56.13655,
+                "longitude": 40.39658,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "83",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "357024",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "826294",
+                        "name": "Владимирская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoPg3OgK9sEAQCGpfPSmOQ"
+        },
+        {
+            "node": {
+                "id": "581049",
+                "name": "Архангельск",
+                "latitude": 64.5401,
+                "longitude": 40.5433,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "06",
+                "division2Code": "505262",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "349742",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "505262",
+                        "name": "Приморский Район"
+                    },
+                    {
+                        "id": "581043",
+                        "name": "Архангельская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGruYHi3OYK9sAORyev-GjMaw"
+        },
+        {
+            "node": {
+                "id": "2025339",
+                "name": "Чита",
+                "latitude": 52.03171,
+                "longitude": 113.50087,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "93",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "349005",
+                "timezone": "Asia/Chita",
+                "parentRegions": [{
+                        "id": "7779061",
+                        "name": "Забайкальский Край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLn2-wJ_8cDSSOtXHGwLbs"
+        },
+        {
+            "node": {
+                "id": "578072",
+                "name": "Белгород",
+                "latitude": 50.61074,
+                "longitude": 36.58015,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "09",
+                "division2Code": "578070",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "345289",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "578070",
+                        "name": "Белгородский район"
+                    },
+                    {
+                        "id": "578071",
+                        "name": "Белгородская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtoji3-0K9sACQiukUDsCpg"
+        },
+        {
+            "node": {
+                "id": "553915",
+                "name": "Калуга",
+                "latitude": 54.5293,
+                "longitude": 36.27542,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "25",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "340851",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "553899",
+                        "name": "Калужская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtIPr2eoK9sAHSCasDPjmng"
+        },
+        {
+            "node": {
+                "id": "491687",
+                "name": "Смоленск",
+                "latitude": 54.77944,
+                "longitude": 32.04371,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "69",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "330025",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "491684",
+                        "name": "Смоленская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIHk0OgK9scHQCGo0AuRRA"
+        },
+        {
+            "node": {
+                "id": "491422",
+                "name": "Сочи",
+                "latitude": 43.59917,
+                "longitude": 39.72569,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "38",
+                "division2Code": "6695246",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "327608",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "6695246",
+                        "name": "Sochi City"
+                    },
+                    {
+                        "id": "542415",
+                        "name": "Краснодарский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIHm2u0K9sYARiOllDYpAA"
+        },
+        {
+            "node": {
+                "id": "472231",
+                "name": "Волжский",
+                "latitude": 48.78583,
+                "longitude": 44.77973,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "84",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "323293",
+                "timezone": "Europe/Volgograd",
+                "parentRegions": [{
+                        "id": "472755",
+                        "name": "Волгоградская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoLg2-4K9sYEQiquL4iBng"
+        },
+        {
+            "node": {
+                "id": "498698",
+                "name": "Саранск",
+                "latitude": 54.1838,
+                "longitude": 45.1749,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "46",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "318841",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "525369",
+                        "name": "Мордовия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIjk0ecK9sUPSCes3Yd9gQ"
+        },
+        {
+            "node": {
+                "id": "569223",
+                "name": "Череповец",
+                "latitude": 59.13333,
+                "longitude": 37.9,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "85",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "315738",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "472454",
+                        "name": "Вологодская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrt4ng2uwK9sUCRyClzfaXjQ"
+        },
+        {
+            "node": {
+                "id": "472459",
+                "name": "Вологда",
+                "latitude": 59.2239,
+                "longitude": 39.88398,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "85",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "312420",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "472454",
+                        "name": "Вологодская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoLm3eYK9sUFRCGtPf7ZYQ"
+        },
+        {
+            "node": {
+                "id": "1501321",
+                "name": "Курган",
+                "latitude": 55.45,
+                "longitude": 65.33333,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "40",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "309285",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1501312",
+                        "name": "Курганская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIDj2-0B_8cHSSGlXKfObkE"
+        },
+        {
+            "node": {
+                "id": "473249",
+                "name": "Владикавказ",
+                "latitude": 43.03667,
+                "longitude": 44.66778,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "68",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "306258",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "519969",
+                        "name": "Северная Осетия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqtoPg3OYK9sQBQial6eho7A"
+        },
+        {
+            "node": {
+                "id": "515012",
+                "name": "Орёл",
+                "latitude": 52.95932,
+                "longitude": 36.07805,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "56",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "303696",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "514801",
+                        "name": "Орловская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsIXi2e0K9sQERiqrIFo2Pw"
+        },
+        {
+            "node": {
+                "id": "1490624",
+                "name": "Сургут",
+                "latitude": 61.25,
+                "longitude": 73.41667,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "32",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "300367",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1503773",
+                        "name": "Ханты-Мансийский АО"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYni3u0E_8cHQCCrXiOhEyI"
+        },
+        {
+            "node": {
+                "id": "558418",
+                "name": "Грозный",
+                "latitude": 43.31195,
+                "longitude": 45.68895,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "12",
+                "division2Code": "11497700",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "297137",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "11497700",
+                        "name": "Grozny Urban Okrug"
+                    },
+                    {
+                        "id": "569665",
+                        "name": "Чечня"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtIjm2ecK980AQSCqLHfjRQ"
+        },
+        {
+            "node": {
+                "id": "524305",
+                "name": "Мурманск",
+                "latitude": 68.97917,
+                "longitude": 33.09251,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "49",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "295374",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "524304",
+                        "name": "Мурманская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Th2OoK980CQySph1fIXw"
+        },
+        {
+            "node": {
+                "id": "484646",
+                "name": "Тамбов",
+                "latitude": 52.73169,
+                "longitude": 41.44326,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "72",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "293661",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "484638",
+                        "name": "Тамбовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYTk3OkK980ERiWszDgfzQ"
+        },
+        {
+            "node": {
+                "id": "509820",
+                "name": "Петрозаводск",
+                "latitude": 61.78491,
+                "longitude": 34.34691,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "28",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "279190",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "552548",
+                        "name": "Карелия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsYnq2u8K98MOQSqtxG6k_A"
+        },
+        {
+            "node": {
+                "id": "484907",
+                "name": "Таганрог",
+                "latitude": 47.23627,
+                "longitude": 38.9053,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "61",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "279056",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "501165",
+                        "name": "Ростовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYTr2OgK98MOQCarEJ8rnQ"
+        },
+        {
+            "node": {
+                "id": "543878",
+                "name": "Кострома",
+                "latitude": 57.76647,
+                "longitude": 40.92686,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "37",
+                "division2Code": "543869",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "277280",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "543869",
+                        "name": "Костромской район"
+                    },
+                    {
+                        "id": "543871",
+                        "name": "Костромская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtYPq3-cK98MAQiutmDILSg"
+        },
+        {
+            "node": {
+                "id": "2021851",
+                "name": "Комсомольск-на-Амуре",
+                "latitude": 50.55034,
+                "longitude": 137.00995,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "30",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "275908",
+                "timezone": "Asia/Vladivostok",
+                "parentRegions": [{
+                        "id": "2022888",
+                        "name": "Хабаровский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLj0OoB_8YARSqtUQuGyIs"
+        },
+        {
+            "node": {
+                "id": "466806",
+                "name": "Йошкар-Ола",
+                "latitude": 56.63877,
+                "longitude": 47.89078,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "45",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "268272",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "529352",
+                        "name": "Марий Эл"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqt4bq2OkK98IPQiSvO5HHWw"
+        },
+        {
+            "node": {
+                "id": "487495",
+                "name": "Стерлитамак",
+                "latitude": 53.62462,
+                "longitude": 55.95015,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "08",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "267231",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "578853",
+                        "name": "Башкортостан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYfm0eoK98IAQiCshvehSA"
+        },
+        {
+            "node": {
+                "id": "2051523",
+                "name": "Братск",
+                "latitude": 56.1325,
+                "longitude": 101.61417,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "20",
+                "division2Code": "11749372",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "256600",
+                "timezone": "Asia/Irkutsk",
+                "parentRegions": [{
+                        "id": "11749372",
+                        "name": "Bratsk Urban Okrug"
+                    },
+                    {
+                        "id": "2023468",
+                        "name": "Иркутская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYXj3e0D_8YCRiWtWe6AY-s"
+        },
+        {
+            "node": {
+                "id": "514734",
+                "name": "Орск",
+                "latitude": 51.20487,
+                "longitude": 58.56685,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "55",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "246836",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "515001",
+                        "name": "Оренбургская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsITl2-sK98ABSCCrWwM5qw"
+        },
+        {
+            "node": {
+                "id": "485239",
+                "name": "Сыктывкар",
+                "latitude": 61.664,
+                "longitude": 50.815,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "34",
+                "division2Code": "485241",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "245083",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "485241",
+                        "name": "Сыктывдинский район"
+                    },
+                    {
+                        "id": "545854",
+                        "name": "Коми"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYXg2-YK98ACQCuujk1r_Q"
+        },
+        {
+            "node": {
+                "id": "1497543",
+                "name": "Нижневартовск",
+                "latitude": 60.9344,
+                "longitude": 76.5531,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "32",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "244937",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1503773",
+                        "name": "Ханты-Мансийский АО"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYnl3esD_8YDRCquXsRACMY"
+        },
+        {
+            "node": {
+                "id": "2027667",
+                "name": "Ангарск",
+                "latitude": 52.53667,
+                "longitude": 103.88639,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "20",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "243158",
+                "timezone": "Asia/Irkutsk",
+                "parentRegions": [{
+                        "id": "2023468",
+                        "name": "Иркутская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLl3ukH_8YDQyKoUZ4bQGY"
+        },
+        {
+            "node": {
+                "id": "518255",
+                "name": "Новороссийск",
+                "latitude": 44.72439,
+                "longitude": 37.76752,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "38",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "241856",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "542415",
+                        "name": "Краснодарский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsIjg3eoK98AGSCareULHMQ"
+        },
+        {
+            "node": {
+                "id": "550280",
+                "name": "Химки",
+                "latitude": 55.9001,
+                "longitude": 37.42848,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "47",
+                "division2Code": "550279",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "239967",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "550279",
+                        "name": "Городской округ Химки"
+                    },
+                    {
+                        "id": "524925",
+                        "name": "Московская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtIDg0O8K98cOSSWqFE6BBA"
+        },
+        {
+            "node": {
+                "id": "523523",
+                "name": "Нальчик",
+                "latitude": 43.49806,
+                "longitude": 43.61889,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "22",
+                "division2Code": "825098",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "239300",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "825098",
+                        "name": "Городской округ Нальчик"
+                    },
+                    {
+                        "id": "554667",
+                        "name": "Кабардино-Балкария"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Pn2uwK98cOQyOtuz4-Xg"
+        },
+        {
+            "node": {
+                "id": "2013159",
+                "name": "Якутск",
+                "latitude": 62.03389,
+                "longitude": 129.73306,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "63",
+                "division2Code": "8617188",
+                "division3Code": null,
+                "division4Code": null,
+                "population": "235600",
+                "timezone": "Asia/Yakutsk",
+                "parentRegions": [{
+                        "id": "8617188",
+                        "name": "Yakutsk"
+                    },
+                    {
+                        "id": "2013162",
+                        "name": "Саха (Якутия)"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYHh2eoJ_8YERSWtWawOlxU"
+        },
+        {
+            "node": {
+                "id": "521118",
+                "name": "Нижнекамск",
+                "latitude": 55.63657,
+                "longitude": 51.82447,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "73",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "234297",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "484048",
+                        "name": "Татарстан"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrs4Hj2ecK98cDQiqquZTrKg"
+        },
+        {
+            "node": {
+                "id": "563708",
+                "name": "Дзержинск",
+                "latitude": 56.24422,
+                "longitude": 43.45543,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "51",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "233126",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "559838",
+                        "name": "Нижегородская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrt4Pl2OcK98cEQSGr1a1atA"
+        },
+        {
+            "node": {
+                "id": "487928",
+                "name": "Старый Оскол",
+                "latitude": 51.29667,
+                "longitude": 37.84167,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "09",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "226977",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "578071",
+                        "name": "Белгородская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYfr2ucK98YBSSSqTvMXdw"
+        },
+        {
+            "node": {
+                "id": "2026609",
+                "name": "Благовещенск",
+                "latitude": 50.27961,
+                "longitude": 127.5405,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "05",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "225091",
+                "timezone": "Asia/Yakutsk",
+                "parentRegions": [{
+                        "id": "2027748",
+                        "name": "Амурская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssYLk3u8J_8YFRSOkWGHd9G8"
+        },
+        {
+            "node": {
+                "id": "519336",
+                "name": "Великий Новгород",
+                "latitude": 58.52131,
+                "longitude": 31.27104,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "52",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "222868",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "519324",
+                        "name": "Новгородская Область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsInh2-kK98YFSCWloLnkjA"
+        },
+        {
+            "node": {
+                "id": "496015",
+                "name": "Шахты",
+                "latitude": 47.70911,
+                "longitude": 40.21443,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "61",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "221312",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "501165",
+                        "name": "Ростовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIbi2eoK98YGQyKvKU7Yxg"
+        },
+        {
+            "node": {
+                "id": "1494114",
+                "name": "Прокопьевск",
+                "latitude": 53.9059,
+                "longitude": 86.719,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "29",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "219000",
+                "timezone": "Asia/Novokuznetsk",
+                "parentRegions": [{
+                        "id": "1503900",
+                        "name": "Кузба́сс"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtYnm2e4E_8YGSSOtWaJgYQU"
+        },
+        {
+            "node": {
+                "id": "500004",
+                "name": "Рыбинск",
+                "latitude": 58.04562,
+                "longitude": 38.83811,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "88",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "216724",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "468898",
+                        "name": "Ярославская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsYDi2OsK98UBRyGpjlgkGw"
+        },
+        {
+            "node": {
+                "id": "463829",
+                "name": "Зеленоград",
+                "latitude": 55.9825,
+                "longitude": 37.18139,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "48",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "215727",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "524894",
+                        "name": "Москва"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqt4Pq2uYK98UCRyGqGn0LOA"
+        },
+        {
+            "node": {
+                "id": "1510018",
+                "name": "Бийск",
+                "latitude": 52.53639,
+                "longitude": 85.20722,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "04",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "215430",
+                "timezone": "Asia/Barnaul",
+                "parentRegions": [{
+                        "id": "1511732",
+                        "name": "Алтайский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIHi2O4I_8YGRSeuWYAYx8w"
+        },
+        {
+            "node": {
+                "id": "504341",
+                "name": "Псков",
+                "latitude": 57.81404,
+                "longitude": 28.34493,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "60",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "210501",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "504338",
+                        "name": "Псковская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrsYTh3O4K98UHRSOsDFrwpQ"
+        },
+        {
+            "node": {
+                "id": "579492",
+                "name": "Балаково",
+                "latitude": 52.02782,
+                "longitude": 47.8007,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "67",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "199572",
+                "timezone": "Europe/Saratov",
+                "parentRegions": [{
+                        "id": "498671",
+                        "name": "Саратовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrtonm0e0K9M0ORSSvEvdvag"
+        },
+        {
+            "node": {
+                "id": "580922",
+                "name": "Армавир",
+                "latitude": 44.9892,
+                "longitude": 41.1234,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "38",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "199548",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "542415",
+                        "name": "Краснодарский край"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGruYDr2u0K9M0ORSel-HbT9w"
+        },
+        {
+            "node": {
+                "id": "2119441",
+                "name": "Южно-Сахалинск",
+                "latitude": 46.95407,
+                "longitude": 142.73603,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "64",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "198973",
+                "timezone": "Asia/Sakhalin",
+                "parentRegions": [{
+                        "id": "2121529",
+                        "name": "Сахалин"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGssIHr3OsB_8UOSCqqWq4V5Sk"
+        },
+        {
+            "node": {
+                "id": "563464",
+                "name": "Энгельс",
+                "latitude": 51.48389,
+                "longitude": 46.10528,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "67",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "196011",
+                "timezone": "Europe/Saratov",
+                "parentRegions": [{
+                        "id": "498671",
+                        "name": "Саратовская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGrt4Pm3usK9M0BQCKsT87c2Q"
+        },
+        {
+            "node": {
+                "id": "496285",
+                "name": "Северодвинск",
+                "latitude": 64.5635,
+                "longitude": 39.8302,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "06",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "194292",
+                "timezone": "Europe/Moscow",
+                "parentRegions": [{
+                        "id": "581043",
+                        "name": "Архангельская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquIbg0OoK9M0DQiqv_6q7Rw"
+        },
+        {
+            "node": {
+                "id": "462444",
+                "name": "Златоуст",
+                "latitude": 55.17111,
+                "longitude": 59.65083,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "13",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "191366",
+                "timezone": "Asia/Yekaterinburg",
+                "parentRegions": [{
+                        "id": "1508290",
+                        "name": "Челябинская"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGqt4Lm3OsK9M0GQyWrxGiZjA"
+        },
+        {
+            "node": {
+                "id": "484972",
+                "name": "Сызрань",
+                "latitude": 53.1585,
+                "longitude": 48.4681,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "65",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "189338",
+                "timezone": "Europe/Samara",
+                "parentRegions": [{
+                        "id": "499068",
+                        "name": "Самарская область"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGquYTr3-0K9MwOQyClIZqnrg"
+        },
+        {
+            "node": {
+                "id": "1512236",
+                "name": "Абакан",
+                "latitude": 53.71556,
+                "longitude": 91.42917,
+                "type": "city",
+                "continentCode": "EU",
+                "countryCode": "RU",
+                "division1Code": "31",
+                "division2Code": null,
+                "division3Code": null,
+                "division4Code": null,
+                "population": "184168",
+                "timezone": "Asia/Krasnoyarsk",
+                "parentRegions": [{
+                        "id": "1503834",
+                        "name": "Хакасия"
+                    },
+                    {
+                        "id": "2017370",
+                        "name": "Россия"
+                    },
+                    {
+                        "id": "6255148",
+                        "name": "Европа"
+                    }
+                ]
+            },
+            "cursor": "C5VGsOGvtIHg2uwG_8UPRCKrUSJZTxE"
+        }
+    ],
+    "pageInfo": {
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "C5VGsOGrs4Tr2O4K9MQESCKvW24okNH4",
+        "endCursor": "C5VGsOGvtIHg2uwG_8UPRCKrUSJZTxE"
+    }
+}
