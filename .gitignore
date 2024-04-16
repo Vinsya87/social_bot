@@ -163,4 +163,5 @@ old.py*
 migrations/
 *copy*
 *.db
+settings.py
 
